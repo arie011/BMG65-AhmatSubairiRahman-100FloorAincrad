@@ -1,0 +1,42 @@
+{
+  "data": {
+    "instances": [
+      {
+        "__OBJ_TYPE": "Instance_Part_Storage",
+        "btsKey": "240fe0c1-458e-4f06-846e-8d82b4ca5123",
+        "density": 2.2,
+        "friction": 0.15,
+        "id": "8764952750811070465",
+        "massCenter": {
+          "x": -35.372611999512,
+          "y": 62.790191650391,
+          "z": -23.324440002441
+        },
+        "material": {
+          "texture": "part_boli.tga"
+        },
+        "position": {
+          "x": -35.372611999512,
+          "y": 62.790191650391,
+          "z": -23.324440002441
+        },
+        "restitution": 0.18,
+        "scale": {
+          "x": 6,
+          "y": 0.999997
+        },
+        "size": {
+          "x": 6,
+          "y": 0.99999696016312
+        },
+        "useAnchor": true
+      }
+    ]
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "915a4cf9ad6a043c202d4e15ba80aae5"
+    },
+    "VERSION": "0.22"
+  }
+}

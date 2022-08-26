@@ -1,0 +1,11 @@
+{
+  "isClient": true,
+  "type": "camera",
+  "viewSetting": {
+    "smoothView": {
+      "pitch": 90,
+      "smooth": 200,
+      "yaw": 360
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "die_front"
+    },
+    "damage": 0,
+    "hurtDistance": 0,
+    "name": {
+      "value": "skill_system_645e302f-fe0e-4fb3-b494-6fedf955903f"
+    },
+    "skillIcon": {
+      "asset": "asset/Texture/Skill/common/icon_飞.png"
+    },
+    "skillIconPos": {
+      "area_number": 7
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7c5c211931a03786141074de2fb5dd3c",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

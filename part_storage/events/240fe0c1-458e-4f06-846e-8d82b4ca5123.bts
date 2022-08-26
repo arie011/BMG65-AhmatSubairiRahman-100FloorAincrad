@@ -1,0 +1,31 @@
+PART_TOUCH_ENTITY_BEGIN {
+	DestoryPart(part = $part1)
+}
+
+PART_TOUCH_ENTITY_END {
+	CreatePart(
+		color = [
+			1.0,
+			1.0,
+			1.0,
+			1.0
+		],
+		map = "",
+		material = "part_suliao.tga",
+		name = "",
+		pitch = 0,
+		pos = {
+			x = -35.479614257812,
+			y = 5000,
+			z = -23.385013580322
+		},
+		roll = 0,
+		shapeId = "1",
+		size = {
+			x = 1,
+			y = 1,
+			z = 1
+		},
+		yaw = 0
+	)
+}

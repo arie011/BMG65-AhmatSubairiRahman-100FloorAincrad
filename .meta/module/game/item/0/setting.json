@@ -1,0 +1,68 @@
+{
+  "data": {
+    "canJoinMidway": false,
+    "defaultView": "Back",
+    "fixed_viewPos": {
+      "pos": {
+        "__OBJ_TYPE": "Vector3i"
+      }
+    },
+    "initPos": {
+      "map": "map001",
+      "pos": {
+        "x": -13.551427841187,
+        "y": 1.0929141426086,
+        "z": -34.982501983643
+      }
+    },
+    "nowTime": {
+      "h": 7,
+      "m": 40
+    },
+    "player_range": {
+      "max": 6,
+      "min": 1
+    },
+    "shops": [
+      {
+        "items": [
+          {
+            "coinId": "df299752-6f66-4a11-93e5-947fadc495cd",
+            "detail": {
+              "value": "0d183110-fc4d-4bfc-8b02-abb025975b82"
+            },
+            "item": {
+              "item": "41512785-5747-4994-89b8-5a90f7700f72"
+            },
+            "name": {
+              "value": "84e14d6c-4757-4bc2-8fce-87698df23f16"
+            },
+            "price": 1
+          }
+        ],
+        "name": {
+          "value": "ad9d6e07-165c-4046-bed2-39a78cc60b60"
+        }
+      }
+    ],
+    "showShop": true,
+    "startPos": {
+      "map": "map001",
+      "pos": {
+        "x": -14.387770652771,
+        "y": 65.399199523926,
+        "z": -25.971897125244
+      }
+    },
+    "unlimitedPlayTime": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "64f59e57b341711112d04a38fd5bd7cc",
+      "shop.csv": "69bb1dde27d57bf81f84f7acb5a0783a",
+      "triggers.bts": "",
+      "triggers_client.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

@@ -1,0 +1,3 @@
+REGION_ENTER {
+	AddEntityBuff(cfg = "myplugin/cc209258-772c-4090-b5c6-08f472d09c8a", entity = $obj1)
+}

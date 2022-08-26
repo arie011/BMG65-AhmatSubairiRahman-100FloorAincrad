@@ -1,0 +1,14 @@
+{
+  "data": {
+    "moveSpeed": 2,
+    "name": {
+      "value": "buff_cc8ae806-5bae-41bc-8627-744ca9244c23"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4a93a92feef59657e05da7b2544de172"
+    },
+    "VERSION": "0.22"
+  }
+}

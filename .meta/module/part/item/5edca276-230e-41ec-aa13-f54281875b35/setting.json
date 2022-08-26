@@ -1,0 +1,85 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_KillEntity",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "69163702-0916-496a-8197-c3a42d54af37"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ac5b4647-cd0c-4e92-8ce1-01ff3b2f5c61"
+              },
+              "pos": {
+                "x": 798,
+                "y": 195
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "69163702-0916-496a-8197-c3a42d54af37"
+              },
+              "pos": {
+                "x": 1165,
+                "y": 226
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "9de41fb2-8ec6-4c17-9e31-2d59d7a78755"
+            },
+            "type": "Trigger_PartTouchEntityBegin"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "ac5b4647-cd0c-4e92-8ce1-01ff3b2f5c61"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "1f86a71b-3ade-41ae-abba-b68de20c5b5d"
+            }
+          },
+          "type": "Trigger_PartTouchEntityBegin"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "2a66487b7194814eef54159c357806a2"
+    },
+    "VERSION": "0.22"
+  }
+}

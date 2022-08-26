@@ -1,0 +1,15 @@
+{
+  "data": {
+    "name": {
+      "value": "buff_0632742c-09a8-4112-b07d-cb794f6bf222"
+    },
+    "unassailable": true,
+    "undamageable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "158596cc648cb531a4c49beb22bb38b5"
+    },
+    "VERSION": "0.22"
+  }
+}

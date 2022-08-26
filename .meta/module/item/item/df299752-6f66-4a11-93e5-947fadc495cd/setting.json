@@ -1,0 +1,29 @@
+{
+  "data": {
+    "dropSpeed": 5,
+    "icon": {
+      "asset": "asset/Mesh/Huge Green Grass Badge/g2038_badge_01.tga"
+    },
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemInHand",
+        "isCoin": true
+      },
+      "type": "InHand"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Huge Green Grass Badge/g2038_badge_01.mesh"
+    },
+    "name": {
+      "value": "item_df299752-6f66-4a11-93e5-947fadc495cd"
+    },
+    "stack_count_max": 100
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "1cc7802d2db5ed69e0fcc997992f6ef3",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

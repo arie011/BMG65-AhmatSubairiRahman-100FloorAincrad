@@ -1,0 +1,164 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_GetPartPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "e3ac2201-35e7-47d3-990a-d7feafd2aeb6"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ead9df58-1187-49bd-9a37-fcaf9056a974"
+              },
+              "pos": {
+                "x": 1207,
+                "y": 409
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_SetEntityRebirthPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "3b5b9baa-4bfe-4fc0-bac5-caa773100570"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_MapObj",
+                        "action": "ece5ac02-3f29-407f-87be-7e147a1fadb6"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos",
+                        "action": "ead9df58-1187-49bd-9a37-fcaf9056a974"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "a7a93705-75ab-486e-b9e1-4232b5291986"
+              },
+              "pos": {
+                "x": 610,
+                "y": 228
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "3b5b9baa-4bfe-4fc0-bac5-caa773100570"
+              },
+              "pos": {
+                "x": 1202,
+                "y": 93
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "GetStaticMap",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Map",
+                        "rawval": "map001"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ece5ac02-3f29-407f-87be-7e147a1fadb6"
+              },
+              "pos": {
+                "x": 1202,
+                "y": 265
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "part1"
+                }
+              ],
+              "id": {
+                "value": "e3ac2201-35e7-47d3-990a-d7feafd2aeb6"
+              },
+              "pos": {
+                "x": 1496,
+                "y": 400
+              },
+              "type": "T_Part"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "de2f56c9-ca5f-423e-8113-9e2178cd7792"
+            },
+            "type": "Trigger_PartTouchEntityBegin"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "a7a93705-75ab-486e-b9e1-4232b5291986"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "09e8c41d-e676-4f4d-b195-615fcbfa5d32"
+            },
+            "pos": {
+              "x": 203,
+              "y": 281
+            }
+          },
+          "type": "Trigger_PartTouchEntityBegin"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "9712ff8296324ef6e75b745fb2cbefdf"
+    },
+    "VERSION": "0.22"
+  }
+}

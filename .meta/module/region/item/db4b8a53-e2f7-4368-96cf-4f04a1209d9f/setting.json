@@ -1,0 +1,19 @@
+{
+  "data": {
+    "rotateTheCamera": {
+      "enable": true,
+      "pitch": 90,
+      "time": {
+        "value": 200
+      },
+      "yaw": 360
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "9e1e25cc3453f2c999f3c26bb229c620",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

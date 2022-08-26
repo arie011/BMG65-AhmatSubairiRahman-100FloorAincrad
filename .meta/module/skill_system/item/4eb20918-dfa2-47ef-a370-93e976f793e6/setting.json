@@ -1,0 +1,39 @@
+{
+  "data": {
+    "attackBound": {
+      "size": {
+        "y": 2,
+        "z": 2
+      }
+    },
+    "attackBoundSkillSystemCfg": {
+      "size": {
+        "y": 2,
+        "z": 2
+      }
+    },
+    "castAction": {
+      "castAction": "attack"
+    },
+    "castEffect": {
+      "selfOnly": true
+    },
+    "damage": 20,
+    "name": {
+      "value": "skill_system_4eb20918-dfa2-47ef-a370-93e976f793e6"
+    },
+    "skillIcon": {
+      "asset": "asset/Texture/Skill/common/icon_近战攻击_act.png"
+    },
+    "skillIconPos": {
+      "area_number": 8
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4ae2b90dbdcbaa46ebeee99760ef6d87",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

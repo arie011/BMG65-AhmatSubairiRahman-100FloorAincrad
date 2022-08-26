@@ -1,0 +1,24 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "attack"
+    },
+    "castEffect": {
+      "selfOnly": true
+    },
+    "cdTime": {
+      "value": 100
+    },
+    "damage": 10,
+    "name": {
+      "value": "skill_system_e740cc79-32bb-4f07-bf6c-122fa7d28581"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "4e70ada645eb5eb9af92eebefe438a4d",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

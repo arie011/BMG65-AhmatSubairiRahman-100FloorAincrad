@@ -1,0 +1,19 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 5,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Mesh/Huge Green Grass Badge/g2038_badge_01.tga",
+  "itemname": "item_df299752-6f66-4a11-93e5-947fadc495cd",
+  "mesh": "asset/Mesh/Huge Green Grass Badge/g2038_badge_01.mesh",
+  "needSave": false,
+  "skill": [],
+  "stack_count_max": 100,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

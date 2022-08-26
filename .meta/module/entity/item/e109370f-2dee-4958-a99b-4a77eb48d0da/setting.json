@@ -1,0 +1,29 @@
+{
+  "data": {
+    "AI_attack": {
+      "chaseDistance": 5,
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/e740cc79-32bb-4f07-bf6c-122fa7d28581"
+        }
+      ]
+    },
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_e109370f-2dee-4958-a99b-4a77eb48d0da"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "602dd00464d8e188737ad1e83942f232",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

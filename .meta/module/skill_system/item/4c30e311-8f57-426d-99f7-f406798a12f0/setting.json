@@ -1,0 +1,24 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "attack1"
+    },
+    "castEffect": {
+      "selfOnly": true
+    },
+    "cdTime": {
+      "value": 100
+    },
+    "damage": 10,
+    "name": {
+      "value": "0d264545-7f5a-4c20-bbed-af49a4a6ce55"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5eddff1d29351861f074de82e6a6c479",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
