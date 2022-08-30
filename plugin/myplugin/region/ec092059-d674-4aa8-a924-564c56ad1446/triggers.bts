@@ -1,3 +1,10 @@
 REGION_ENTER {
 	AddEntityBuff(cfg = "myplugin/cc209258-772c-4090-b5c6-08f472d09c8a", entity = $obj1)
+	RemoveBuffByFullName(buff = "myplugin/e7db234c-e810-43be-9642-e0fa6a00f9c2", entity = $obj1, toTeam = false)
+	AddEntityBuff(cfg = "myplugin/d0192b90-0a91-4ac6-a106-e9b02d262816", entity = $obj1)
+}
+
+REGION_LEAVE {
+	RemoveBuffByFullName(buff = "myplugin/d0192b90-0a91-4ac6-a106-e9b02d262816", entity = $obj1, toTeam = false)
+	AddEntityBuff(cfg = "myplugin/e7db234c-e810-43be-9642-e0fa6a00f9c2", entity = $obj1)
 }

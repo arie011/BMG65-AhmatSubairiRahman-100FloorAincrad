@@ -65,6 +65,67 @@
                 "y": 299
               },
               "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_ShowTip",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "fffe6e08-cc95-405c-b903-59c9c358c97c"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_TipType"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Text",
+                        "rawval": {
+                          "value": "28b739e2-a47e-4e62-9590-3fdb810446e4"
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Time",
+                        "rawval": {
+                          "value": 60
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ac682102-0303-45a6-aadd-87312cbfcc9d"
+              },
+              "pos": {
+                "x": 693,
+                "y": 42
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "fffe6e08-cc95-405c-b903-59c9c358c97c"
+              },
+              "pos": {
+                "x": 1187,
+                "y": 108
+              },
+              "type": "T_Entity"
             }
           ],
           "custom_trigger_data": {
@@ -78,6 +139,9 @@
               {
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
+                  {
+                    "action": "ac682102-0303-45a6-aadd-87312cbfcc9d"
+                  },
                   {
                     "action": "42cc12fb-4a0b-44f7-92b0-126860c096a4"
                   }
@@ -173,7 +237,7 @@
   "meta": {
     "EXPORT": {
       "setting.json": "b99d540dc9f2e8c2c9119592fc7574e8",
-      "triggers.bts": "e31213e859301d7f028b59064c5902c8"
+      "triggers.bts": "4d85222ecbe374643cc70b0b414af2f0"
     },
     "VERSION": "0.22"
   }

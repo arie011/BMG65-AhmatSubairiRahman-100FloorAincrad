@@ -49,16 +49,16 @@
     "startPos": {
       "map": "map001",
       "pos": {
-        "x": -14.387770652771,
-        "y": 65.399199523926,
-        "z": -25.971897125244
+        "x": -48.43138885498,
+        "y": 80.786131896973,
+        "z": -18.855312347412
       }
     },
     "unlimitedPlayTime": true
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "64f59e57b341711112d04a38fd5bd7cc",
+      "setting.json": "6cff67787b1c100408842fcbee782577",
       "shop.csv": "69bb1dde27d57bf81f84f7acb5a0783a",
       "triggers.bts": "",
       "triggers_client.bts": ""

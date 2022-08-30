@@ -1,0 +1,41 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Gavel Green Dwarf/Evil Goblin.actor"
+    },
+    "AI_attack": {
+      "enable": true
+    },
+    "AI_home": {
+      "homeSize": 5
+    },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "AI_walkRules": {
+      "ai_navigation": {
+        "enable": true
+      }
+    },
+    "canRevive": true,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_a668a48a-2d85-4544-a55e-d39c0812baa5"
+    },
+    "reviveTime": {
+      "value": 200
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ab6dae0d73624661f91c810d0c21f63e",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

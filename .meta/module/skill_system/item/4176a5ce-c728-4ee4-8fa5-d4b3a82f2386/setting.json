@@ -1,0 +1,38 @@
+{
+  "data": {
+    "attackBound": {
+      "radius_c": 0.75,
+      "type": "Capsule"
+    },
+    "attackBoundSkillSystemCfg": {
+      "radius_c": 0.75,
+      "type": "Capsule"
+    },
+    "castAction": {
+      "castAction": "magicAttack2"
+    },
+    "castEffect": {
+      "effect": {
+        "asset": "asset/Actor/Gray Armor Warrior/g2021_25_B.effect"
+      },
+      "selfOnly": true
+    },
+    "damage": 100,
+    "name": {
+      "value": "skill_system_4176a5ce-c728-4ee4-8fa5-d4b3a82f2386"
+    },
+    "skillIcon": {
+      "asset": "asset/Texture/Skill/common/icon_火球_nor.png"
+    },
+    "skillIconPos": {
+      "area_number": 9
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "2018d93c12543d5539ed7ede8c7a9453",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

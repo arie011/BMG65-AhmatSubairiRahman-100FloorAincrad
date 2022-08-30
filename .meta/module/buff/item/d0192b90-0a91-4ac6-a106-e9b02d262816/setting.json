@@ -1,0 +1,23 @@
+{
+  "data": {
+    "name": {
+      "value": "buff_d0192b90-0a91-4ac6-a106-e9b02d262816"
+    },
+    "sound": {
+      "loop": true,
+      "selfOnly": true,
+      "sound": {
+        "asset": "asset/Etc/Audio/The First Town.mp3"
+      },
+      "volume": {
+        "value": 0.61
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ff40662037cff261d2f4cccc888e6f91"
+    },
+    "VERSION": "0.22"
+  }
+}

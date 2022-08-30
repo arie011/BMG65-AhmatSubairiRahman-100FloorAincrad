@@ -11,6 +11,14 @@
         }
       ]
     },
+    "AI_patrol": {
+      "patrolMode": "randomPath"
+    },
+    "AI_walkRules": {
+      "ai_navigation": {
+        "enable": true
+      }
+    },
     "canRevive": true,
     "enableAI": true,
     "girlactor": {
@@ -117,7 +125,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "f1c755c826d5b5c8a8476c59610897d2",
+      "setting.json": "cc6a8d19331ceccdd4d7a97e31f3a287",
       "triggers.bts": "88ca127a1d7f7dd3321a5be541cef647"
     },
     "VERSION": "0.22"

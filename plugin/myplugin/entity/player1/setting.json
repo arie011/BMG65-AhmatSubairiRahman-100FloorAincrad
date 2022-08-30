@@ -120,7 +120,8 @@
   "setFollowWhenCreate": true,
   "skillInfos": [
     "myplugin/4eb20918-dfa2-47ef-a370-93e976f793e6",
-    "myplugin/645e302f-fe0e-4fb3-b494-6fedf955903f"
+    "myplugin/645e302f-fe0e-4fb3-b494-6fedf955903f",
+    "myplugin/4176a5ce-c728-4ee4-8fa5-d4b3a82f2386"
   ],
   "stepHeight": 0.6,
   "textHeight": 2.3,

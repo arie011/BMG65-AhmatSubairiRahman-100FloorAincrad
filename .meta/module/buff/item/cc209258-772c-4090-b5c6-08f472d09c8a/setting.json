@@ -1,15 +1,15 @@
 {
   "data": {
     "deadRemove": true,
-    "dropDamageRatio": 10,
-    "dropDamageStart": 10,
+    "dropDamageRatio": 25,
+    "dropDamageStart": 25,
     "name": {
       "value": "buff_cc209258-772c-4090-b5c6-08f472d09c8a"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "48c96716cc4a50de353993739d2587c6"
+      "setting.json": "d1228d02a8d1d06153a5de1cd0da355b"
     },
     "VERSION": "0.22"
   }

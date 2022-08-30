@@ -1,0 +1,163 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Gray Armor Warrior/Passers-by.actor"
+    },
+    "canClick": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "name": {
+      "value": "entity_dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_OpenConversation",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "56ea7d59-d5cc-4554-a996-6b4adc40f847"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_TalkList",
+                        "rawval": {
+                          "talk": [
+                            {
+                              "msg": {
+                                "value": "c1a341a9-8d06-490f-97d3-00645b79d7d6"
+                              },
+                              "npc": "myplugin/player1"
+                            },
+                            {
+                              "msg": {
+                                "value": "3021a582-9516-453b-a499-0fc25e3faf0e"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "8ba94ac2-cde9-45cd-943d-291c9f8ca574"
+                              },
+                              "npc": "myplugin/player1"
+                            },
+                            {
+                              "msg": {
+                                "value": "9b347e68-9de7-442d-b542-8c72acf1d4d0"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "b3c3236c-4bef-4e5b-9eab-eef904f447f6"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "9b19771f-52e6-4b0d-95ec-c2606b63ddc8"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "ddf5bb52-fbad-4649-8ff2-72f13bc2bd0e"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "97d84702-a9f7-4aa1-9476-efd75999eb44"
+                              },
+                              "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_OptionList"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_EntityEntry",
+                        "rawval": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "36e91e57-52d7-4e31-94b4-65dbb846e40d"
+              },
+              "pos": {
+                "x": 557,
+                "y": 60
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "56ea7d59-d5cc-4554-a996-6b4adc40f847"
+              },
+              "pos": {
+                "x": 1172,
+                "y": 44
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "cdd2ac77-5643-411c-a4d9-8275cfa1b150"
+            },
+            "type": "Trigger_EntityClick"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "36e91e57-52d7-4e31-94b4-65dbb846e40d"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "0a447556-e94e-40b1-bcba-3a2183bff57a"
+            },
+            "pos": {
+              "x": 276,
+              "y": 266
+            }
+          },
+          "type": "Trigger_EntityClick"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "b999108e7773ba26d650371767deee48",
+      "triggers.bts": "020b500cf7f72d4d4e80518670750867"
+    },
+    "VERSION": "0.22"
+  }
+}

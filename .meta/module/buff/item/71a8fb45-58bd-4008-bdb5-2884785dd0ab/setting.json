@@ -1,5 +1,6 @@
 {
   "data": {
+    "continueDamage": 5,
     "deadRemove": true,
     "name": {
       "value": "buff_71a8fb45-58bd-4008-bdb5-2884785dd0ab"
@@ -7,7 +8,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2d833982d877fce58ed8e38e467d1c7e"
+      "setting.json": "97060f926094117980f19b31d4288d23"
     },
     "VERSION": "0.22"
   }

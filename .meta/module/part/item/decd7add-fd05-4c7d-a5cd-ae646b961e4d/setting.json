@@ -1,0 +1,99 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_MoveAllPlayers",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_SceneRegion",
+                        "rawval": {
+                          "region": {
+                            "max": {
+                              "x": -64,
+                              "y": 73,
+                              "z": -64
+                            },
+                            "min": {
+                              "x": -65,
+                              "y": 72,
+                              "z": -65
+                            }
+                          }
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "c581e550-3d2e-4914-a6a3-7afb505420fc"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "217eac7d-629f-4cbe-a0db-da00c7bbc2b4"
+              },
+              "pos": {
+                "x": 776,
+                "y": 288
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "c581e550-3d2e-4914-a6a3-7afb505420fc"
+              },
+              "pos": {
+                "x": 1519,
+                "y": 429
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "eb26fab6-ae1e-47b0-b4d0-3cf5dfac9f17"
+            },
+            "type": "Trigger_PartTouchEntityBegin"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "217eac7d-629f-4cbe-a0db-da00c7bbc2b4"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "6ab74999-8550-452b-9dc9-7a4651449f9c"
+            }
+          },
+          "type": "Trigger_PartTouchEntityBegin"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "14c0297dbd1903d69e54f526995b7a7a"
+    },
+    "VERSION": "0.22"
+  }
+}

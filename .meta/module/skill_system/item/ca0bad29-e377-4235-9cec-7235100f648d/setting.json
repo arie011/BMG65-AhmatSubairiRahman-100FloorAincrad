@@ -1,0 +1,23 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "attack1"
+    },
+    "castEffect": {
+      "effect": {
+        "asset": "asset/Actor/Gavel Green Dwarf/g2021_pet_gebuling2.effect"
+      }
+    },
+    "damage": 20,
+    "name": {
+      "value": "skill_system_ca0bad29-e377-4235-9cec-7235100f648d"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a4eb9f01ad77aaad9faac167b9873a9a",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}
