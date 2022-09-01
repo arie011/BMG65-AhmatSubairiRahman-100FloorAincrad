@@ -116,7 +116,7 @@
     "die_front"
   ],
   "reachDistance": 6.5,
-  "reviveTime": 40,
+  "reviveTime": 200,
   "setFollowWhenCreate": true,
   "skillInfos": [
     "myplugin/4eb20918-dfa2-47ef-a370-93e976f793e6",

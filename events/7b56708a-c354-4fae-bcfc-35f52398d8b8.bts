@@ -1,0 +1,3 @@
+PART_TOUCH_ENTITY_BEGIN {
+	ShowTip(entity = $obj2, keepTime = 100, textKey = "d5c1fd90-ece5-4975-aa25-ee2bf5798b53", tipType = "1")
+}

@@ -6,13 +6,13 @@ PART_TOUCH_ENTITY_BEGIN {
 			max = {
 				__OBJ_TYPE = "Vector3i",
 				x = -50,
-				y = 69,
+				y = 61,
 				z = -64
 			},
 			min = {
 				__OBJ_TYPE = "Vector3i",
 				x = -51,
-				y = 68,
+				y = 60,
 				z = -65
 			}
 		}

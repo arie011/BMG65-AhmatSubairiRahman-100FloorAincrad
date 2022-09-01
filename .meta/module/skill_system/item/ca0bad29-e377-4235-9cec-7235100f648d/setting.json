@@ -6,7 +6,8 @@
     "castEffect": {
       "effect": {
         "asset": "asset/Actor/Gavel Green Dwarf/g2021_pet_gebuling2.effect"
-      }
+      },
+      "selfOnly": true
     },
     "damage": 20,
     "name": {
@@ -15,7 +16,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "a4eb9f01ad77aaad9faac167b9873a9a",
+      "setting.json": "2de628bc8fa8d93bfd16d6cb4c50c960",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

@@ -118,7 +118,7 @@
       "y": 1,
       "z": 1
     },
-    "selfOnly": false,
+    "selfOnly": true,
     "yaw": 0
   },
   "castInterval": {

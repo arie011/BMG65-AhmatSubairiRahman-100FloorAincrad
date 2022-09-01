@@ -6,14 +6,14 @@ PART_CLICKED {
 			max = {
 				__OBJ_TYPE = "Vector3i",
 				x = -49,
-				y = 63,
-				z = -25
+				y = 48,
+				z = -29
 			},
 			min = {
 				__OBJ_TYPE = "Vector3i",
-				x = -51,
-				y = 62,
-				z = -26
+				x = -50,
+				y = 47,
+				z = -30
 			}
 		}
 	)

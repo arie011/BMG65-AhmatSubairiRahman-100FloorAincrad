@@ -5,15 +5,15 @@ PART_CLICKED {
 			map = "",
 			max = {
 				__OBJ_TYPE = "Vector3i",
-				x = -29,
-				y = 62,
-				z = -55
+				x = -23,
+				y = 53,
+				z = -64
 			},
 			min = {
 				__OBJ_TYPE = "Vector3i",
-				x = -30,
-				y = 61,
-				z = -56
+				x = -24,
+				y = 52,
+				z = -65
 			}
 		}
 	)

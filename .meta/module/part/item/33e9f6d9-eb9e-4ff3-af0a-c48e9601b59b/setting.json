@@ -17,12 +17,12 @@
                           "region": {
                             "max": {
                               "x": -50,
-                              "y": 69,
+                              "y": 61,
                               "z": -64
                             },
                             "min": {
                               "x": -51,
-                              "y": 68,
+                              "y": 60,
                               "z": -65
                             }
                           }
@@ -92,7 +92,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "0f0909236f6d7c8c2585a9ea33da5f6a"
+      "triggers.bts": "0560db3daed0a163975cd16920d022f6"
     },
     "VERSION": "0.22"
   }

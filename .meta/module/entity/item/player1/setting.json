@@ -40,7 +40,7 @@
       "value": "bbfbdc34-da2f-41ab-aaac-3b2e72f5ef6d"
     },
     "reviveTime": {
-      "value": 40
+      "value": 200
     },
     "skill": [
       "myplugin/4eb20918-dfa2-47ef-a370-93e976f793e6",
@@ -141,7 +141,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "7484472006d158904caa7cf55d56aa84",
+      "setting.json": "3db428ffd25e6afed689794f139aa013",
       "triggers.bts": "b174e641128310986b077abfb7cb0c6d"
     },
     "VERSION": "0.22"

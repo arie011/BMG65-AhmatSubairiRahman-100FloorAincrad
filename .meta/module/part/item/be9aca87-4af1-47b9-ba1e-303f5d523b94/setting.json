@@ -16,14 +16,14 @@
                         "rawval": {
                           "region": {
                             "max": {
-                              "x": -29,
-                              "y": 62,
-                              "z": -55
+                              "x": -23,
+                              "y": 53,
+                              "z": -64
                             },
                             "min": {
-                              "x": -30,
-                              "y": 61,
-                              "z": -56
+                              "x": -24,
+                              "y": 52,
+                              "z": -65
                             }
                           }
                         }
@@ -92,7 +92,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "ba97313dad80c9b6ed43dedadb858a00"
+      "triggers.bts": "12595ec3a3caaeb8e26f3b56b5fe0184"
     },
     "VERSION": "0.22"
   }
