@@ -1,0 +1,20 @@
+PART_CLICKED {
+	MoveAllPlayers(
+		entity = $from,
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = -31,
+				y = 113,
+				z = -18
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = -32,
+				y = 112,
+				z = -19
+			}
+		}
+	)
+}

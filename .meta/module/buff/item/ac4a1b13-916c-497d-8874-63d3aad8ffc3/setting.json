@@ -1,0 +1,25 @@
+{
+  "data": {
+    "antiGravity": 1.3,
+    "castEffect": {
+      "effect": {
+        "asset": "asset/Actor/Gray Armor Warrior/g2021_33_C.effect"
+      },
+      "scale": {
+        "x": 2,
+        "y": 2,
+        "z": 2
+      },
+      "selfOnly": true
+    },
+    "name": {
+      "value": "buff_ac4a1b13-916c-497d-8874-63d3aad8ffc3"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "ff89728997b5ee3e772c0ff0ad5fb5ea"
+    },
+    "VERSION": "0.22"
+  }
+}

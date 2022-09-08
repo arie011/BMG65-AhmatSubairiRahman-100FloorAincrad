@@ -1,0 +1,555 @@
+{
+  "data": {
+    "name": {
+      "value": "CheckpointUpdated"
+    },
+    "params": [
+      {
+        "param_name": "Player",
+        "param_type": "T_Entity"
+      },
+      {
+        "param_name": "CheckpoinPart",
+        "param_type": "T_Part"
+      }
+    ],
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_If",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Condition",
+                  "children": [
+                    {
+                      "action": "d2ea4ade-edd1-4f4f-b4d1-2dd465ba0add"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "eba1532e-e055-4f27-abd7-78bf7baf51c1"
+              },
+              "pos": {
+                "x": 289,
+                "y": 457
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_IfBranch",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool",
+                        "action": "59db6711-b39a-4711-815f-d6fd520c4837",
+                        "rawval": true
+                      }
+                    }
+                  ]
+                },
+                {
+                  "__OBJ_TYPE": "Component_Sequence",
+                  "children": [
+                    {
+                      "action": "93826514-9974-4838-90ae-6302fff3c85a"
+                    },
+                    {
+                      "action": "15e52876-acc0-48ee-bf78-dc3db3c0c30a"
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "d2ea4ade-edd1-4f4f-b4d1-2dd465ba0add"
+              },
+              "pos": {
+                "x": 527,
+                "y": 504
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_ComputeBool",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Double",
+                        "action": "58293267-03c4-4259-a2a2-19aff8e9e084"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_BinaryOperBool",
+                        "rawval": "<="
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Double",
+                        "action": "7103afb2-bf38-4307-ab0e-0be3718c504a"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "59db6711-b39a-4711-815f-d6fd520c4837"
+              },
+              "pos": {
+                "x": 747,
+                "y": 122
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_SetEntityRebirthPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "e36edf82-5e42-4c23-a945-8bc3bc523433"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_MapObj",
+                        "action": "7a72b0b6-1629-4485-8347-30d4495f5822"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ScenePos",
+                        "action": "d44c96a1-7b4a-44a4-a0c6-0daa3135eef7"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "93826514-9974-4838-90ae-6302fff3c85a"
+              },
+              "pos": {
+                "x": 750,
+                "y": 503
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_SetGlobalVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_GlobalVar",
+                        "rawval": "CurrentCheckPoint"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int",
+                        "action": "cdf15480-87ae-44d6-b751-874074301aa4"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "15e52876-acc0-48ee-bf78-dc3db3c0c30a"
+              },
+              "pos": {
+                "x": 776.845,
+                "y": 685.2125
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_ArrayFind",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "TypeOfVar"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ArrayGlobalVar",
+                        "rawval": "CheckPoints"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Layout"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Vector3",
+                        "action": "0d2c66f7-e43c-4ffe-9122-d1df68732ad9"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "58293267-03c4-4259-a2a2-19aff8e9e084"
+              },
+              "pos": {
+                "x": 1160,
+                "y": 52
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetRebirthPos",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "23a9ba1f-3fa3-4d79-80d3-424305aabdc6"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "0d2c66f7-e43c-4ffe-9122-d1df68732ad9"
+              },
+              "pos": {
+                "x": 1574,
+                "y": 147
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_ArrayFind",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "TypeOfVar"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ArrayGlobalVar",
+                        "rawval": "CheckPoints"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Layout"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Vector3",
+                        "action": "fce76ca4-164f-4646-acf0-67d0d78e5702"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "7103afb2-bf38-4307-ab0e-0be3718c504a"
+              },
+              "pos": {
+                "x": 1150,
+                "y": 262
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetFuncsParamsVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Function_Param",
+                  "key": "Player"
+                }
+              ],
+              "function_name": "CheckpointUpdated",
+              "id": {
+                "value": "23a9ba1f-3fa3-4d79-80d3-424305aabdc6"
+              },
+              "pos": {
+                "x": 1907,
+                "y": 120
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetPartPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "ddd8d65a-a2df-4cbc-a79c-fbdea660fdc6"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "fce76ca4-164f-4646-acf0-67d0d78e5702"
+              },
+              "pos": {
+                "x": 1581,
+                "y": 328
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetFuncsParamsVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Function_Param",
+                  "key": "CheckpoinPart"
+                }
+              ],
+              "function_name": "CheckpointUpdated",
+              "id": {
+                "value": "ddd8d65a-a2df-4cbc-a79c-fbdea660fdc6"
+              },
+              "pos": {
+                "x": 1912,
+                "y": 321
+              },
+              "type": "T_Part"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetFuncsParamsVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Function_Param",
+                  "key": "Player"
+                }
+              ],
+              "function_name": "CheckpointUpdated",
+              "id": {
+                "value": "e36edf82-5e42-4c23-a945-8bc3bc523433"
+              },
+              "pos": {
+                "x": 1355.05,
+                "y": 455.3075
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "GetStaticMap",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Map",
+                        "rawval": "map001"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "7a72b0b6-1629-4485-8347-30d4495f5822"
+              },
+              "pos": {
+                "x": 1349.255,
+                "y": 586.6925
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetPartPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "0283b9a2-b839-4c53-bf4c-bbf5ee11bcb5"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "d44c96a1-7b4a-44a4-a0c6-0daa3135eef7"
+              },
+              "pos": {
+                "x": 1310,
+                "y": 723
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetFuncsParamsVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Function_Param",
+                  "key": "CheckpoinPart"
+                }
+              ],
+              "function_name": "CheckpointUpdated",
+              "id": {
+                "value": "0283b9a2-b839-4c53-bf4c-bbf5ee11bcb5"
+              },
+              "pos": {
+                "x": 1632,
+                "y": 715
+              },
+              "type": "T_Part"
+            },
+            {
+              "__OBJ_TYPE": "Action_ArrayFind",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "TypeOfVar"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ArrayGlobalVar",
+                        "rawval": "CheckPoints"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Layout"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Vector3",
+                        "action": "23ae9fac-ba07-4a08-bdfe-841f10fee8ce"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "cdf15480-87ae-44d6-b751-874074301aa4"
+              },
+              "pos": {
+                "x": 1187.3825,
+                "y": 889.435
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetPartPosition",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "d48578ba-0c7b-459d-b1b2-1a71fb5421d1"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "23ae9fac-ba07-4a08-bdfe-841f10fee8ce"
+              },
+              "pos": {
+                "x": 1635.9725,
+                "y": 961
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetFuncsParamsVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Function_Param",
+                  "key": "CheckpoinPart"
+                }
+              ],
+              "function_name": "CheckpointUpdated",
+              "id": {
+                "value": "d48578ba-0c7b-459d-b1b2-1a71fb5421d1"
+              },
+              "pos": {
+                "x": 1968.255,
+                "y": 937.13
+              },
+              "type": "T_Part"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "c0ddc55b-1143-4841-8617-69447c7cf212"
+            },
+            "type": "Function_Called"
+          },
+          "func_name": "CheckpointUpdated",
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "eba1532e-e055-4f27-abd7-78bf7baf51c1"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "d2e73fae-ca40-4b11-af2c-4c2d0ac0c988"
+            },
+            "pos": {
+              "x": 32,
+              "y": 132
+            }
+          },
+          "type": "Function_Called"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "a0ee94607a71df0f66d06dce081825ad",
+      "triggers.bts": "daa4060f3c6e4c98d2de47ad84d230c0"
+    },
+    "VERSION": "0.22"
+  }
+}

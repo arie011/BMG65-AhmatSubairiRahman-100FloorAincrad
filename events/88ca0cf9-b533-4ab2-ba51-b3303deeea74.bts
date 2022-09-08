@@ -1,0 +1,3 @@
+PART_TOUCH_ENTITY_BEGIN {
+	AddEntityBuff(buffTime = 60, cfg = "myplugin/ac4a1b13-916c-497d-8874-63d3aad8ffc3", entity = $obj2)
+}

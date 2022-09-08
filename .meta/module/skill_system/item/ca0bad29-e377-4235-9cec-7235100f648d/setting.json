@@ -9,6 +9,9 @@
       },
       "selfOnly": true
     },
+    "cdTime": {
+      "value": 100
+    },
     "damage": 20,
     "name": {
       "value": "skill_system_ca0bad29-e377-4235-9cec-7235100f648d"
@@ -16,7 +19,7 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2de628bc8fa8d93bfd16d6cb4c50c960",
+      "setting.json": "2f68df031e475dc9eb93cbee2e74a24b",
       "triggers.bts": ""
     },
     "VERSION": "0.22"

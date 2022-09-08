@@ -1,0 +1,21 @@
+{
+  "data": {
+    "castAction": {
+      "castAction": "attack"
+    },
+    "cdTime": {
+      "value": 100
+    },
+    "damage": 10,
+    "name": {
+      "value": "skill_system_cad7c78b-6b3f-4b93-804a-4bf99e526d3c"
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "daf9dec30f27841cd68b421c4cdf7fc9",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.22"
+  }
+}

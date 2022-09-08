@@ -1,3 +1,26 @@
 ENTITY_ENTER {
 	ShowTip(entity = $obj1, keepTime = 100, textKey = "02b99829-e763-4bdc-a1d0-32fbda09c9b2", tipType = "1")
+	SetEntityRebirthPosition(
+		entity = $obj1,
+		map = GetStaticMap(create = true, name = "map001"),
+		pos = ArrayGet(
+		array = @CheckPoints,
+		index = @CurrentCheckPoint
+	)
+	)
+}
+
+ENTITY_DIE {
+	ConsumeItem2(entity = $obj1, item = "myplugin/df299752-6f66-4a11-93e5-947fadc495cd", num = 1, reason = "")
+	OpenConversation(
+		entity = $obj1,
+		optionList = [],
+		optionNpc = "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964",
+		talkList = [
+			{
+				msg = "2df891cc-00fd-497c-9ef2-ac8edabdde6e",
+				npc = ""
+			}
+		]
+	)
 }

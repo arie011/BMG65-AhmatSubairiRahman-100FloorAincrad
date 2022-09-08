@@ -88,6 +88,14 @@
   "reachDistance": 6.5,
   "reviveTime": 200,
   "setFollowWhenCreate": true,
+  "skillInfoList": [
+    {
+      "__OBJ_TYPE": "AI_Skill",
+      "attackDis": 4,
+      "fullName": "myplugin/ca0bad29-e377-4235-9cec-7235100f648d",
+      "priority": 0
+    }
+  ],
   "skillInfos": [],
   "stepHeight": 0.6,
   "textHeight": 2.3,

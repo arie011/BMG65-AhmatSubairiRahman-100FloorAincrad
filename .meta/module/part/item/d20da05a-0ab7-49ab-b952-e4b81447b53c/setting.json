@@ -1,0 +1,118 @@
+{
+  "data": {
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_Function",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "CheckpointUpdated"
+                      }
+                    },
+                    {
+                      "key": "Player",
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "80c9db39-bde8-43ee-befa-1865a15a0e67"
+                      }
+                    },
+                    {
+                      "key": "CheckpoinPart",
+                      "value": {
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "dd552b43-d9e2-47b0-be58-fbb2128035a2"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "func_declare_id": "c09870ac78b_7ebbf864-5621-44d9-94b0-ce7411c39e3a",
+              "func_name": "CheckpointUpdated",
+              "id": {
+                "value": "0e10b2e1-75e7-4743-bdc8-870e775bd455"
+              },
+              "pos": {
+                "x": 667,
+                "y": 304
+              },
+              "type": "T_Void"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "80c9db39-bde8-43ee-befa-1865a15a0e67"
+              },
+              "pos": {
+                "x": 1020,
+                "y": 202
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "part1"
+                }
+              ],
+              "id": {
+                "value": "dd552b43-d9e2-47b0-be58-fbb2128035a2"
+              },
+              "pos": {
+                "x": 1029,
+                "y": 466
+              },
+              "type": "T_Part"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "edecb6b2-d6c4-46d1-bf4d-6c72a0178166"
+            },
+            "type": "Trigger_PartTouchEntityBegin"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "0e10b2e1-75e7-4743-bdc8-870e775bd455"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "27e75bf9-646b-4849-b2f4-ba132a1fdecf"
+            },
+            "pos": {
+              "x": 283,
+              "y": 303
+            }
+          },
+          "type": "Trigger_PartTouchEntityBegin"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "triggers.bts": "a2ee1cb908c2185d61b36c5d279b0d67"
+    },
+    "VERSION": "0.22"
+  }
+}

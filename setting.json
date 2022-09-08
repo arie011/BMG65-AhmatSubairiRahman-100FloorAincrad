@@ -90,9 +90,9 @@
   "ignoreEmptyStartPos": false,
   "initPos": {
     "map": "map001",
-    "x": -13.551427841187,
-    "y": 1.0929141426086,
-    "z": -34.982501983643
+    "x": -31.842323303223,
+    "y": 2.0398996257782,
+    "z": -34.968250274658
   },
   "isTimeStopped": true,
   "jumpControlConfig": {
@@ -227,9 +227,9 @@
   "startPos": [
     {
       "map": "map001",
-      "x": -35.905601501465,
-      "y": 97.155631103516,
-      "z": -55.896869659424
+      "x": -26.650447845459,
+      "y": 132.61879638672,
+      "z": -34.830253601074
     }
   ],
   "team": [],
@@ -287,7 +287,261 @@
   "vars": {
     "__OBJ_TYPE": [],
     "entity": [],
-    "global": [],
+    "global": [
+      {
+        "key": "CurrentCheckPoint",
+        "run_type": "server",
+        "save": false,
+        "value": 1
+      },
+      {
+        "key": "CheckPoints",
+        "run_type": "server",
+        "save": false,
+        "value": [
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -56,
+            "y": 5,
+            "z": -35
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -56,
+            "y": 6,
+            "z": -60
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -28,
+            "y": 11,
+            "z": -60
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -25,
+            "y": 16,
+            "z": -20
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -50,
+            "y": 20,
+            "z": -22
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -55,
+            "y": 24,
+            "z": -61
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -33,
+            "y": 27,
+            "z": -61
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -30,
+            "y": 30,
+            "z": -20
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -66,
+            "y": 43,
+            "z": -64
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -30,
+            "y": 45,
+            "z": -65
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -14,
+            "y": 51,
+            "z": -25
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -14,
+            "y": 51,
+            "z": -51
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -26,
+            "y": 55,
+            "z": -65
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -51,
+            "y": 54,
+            "z": -38
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -18,
+            "y": 68,
+            "z": -34
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -18,
+            "y": 68,
+            "z": -60
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 68,
+            "z": -60
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 70,
+            "z": -18
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -24,
+            "y": 71,
+            "z": -19
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 73,
+            "z": -62
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -49,
+            "y": 85,
+            "z": -21
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -49,
+            "y": 86,
+            "z": -52
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -7,
+            "y": 86,
+            "z": -52
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -7,
+            "y": 67,
+            "z": -24
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -47,
+            "y": 93,
+            "z": -20
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 0,
+            "z": 0
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -14,
+            "y": 97,
+            "z": -56
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -10,
+            "y": 97,
+            "z": -29
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -45,
+            "y": 97,
+            "z": -22
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 100,
+            "z": -56
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -15,
+            "y": 110,
+            "z": -36
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -19,
+            "y": 111,
+            "z": -36
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -54,
+            "y": 111,
+            "z": -20
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -54,
+            "y": 118,
+            "z": -54
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -25,
+            "y": 121,
+            "z": -42
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -14,
+            "y": 121,
+            "z": -42
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -14,
+            "y": 118,
+            "z": -16
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -52,
+            "y": 120,
+            "z": -16
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -52,
+            "y": 121,
+            "z": -44
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -19,
+            "y": 125,
+            "z": -44
+          }
+        ]
+      }
+    ],
     "ui": []
   },
   "waitAtInitPos": true,

@@ -1,0 +1,16 @@
+PART_TOUCH_ENTITY_BEGIN {
+	StartTimer2(interval = 20, time = 3, timer = "") {
+		DestoryPart(part = $part1)
+		StartTimer2(interval = 40, time = 4, timer = "") {
+			CreatePartByPartStorage(
+				id = "8783474302444863489",
+				map = "map001",
+				pos = {
+					x = -14.061385154724,
+					y = 120.22642425537,
+					z = -24.678447723389
+				}
+			)
+		}
+	}
+}

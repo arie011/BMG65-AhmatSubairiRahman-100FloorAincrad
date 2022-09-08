@@ -24,8 +24,25 @@
   "bodyYawOffset": [
     0
   ],
-  "castAction": "die_front",
+  "castAction": "fly_idle",
   "castActionTime": -1,
+  "castEffect": {
+    "effect": "asset/Actor/Gray Armor Warrior/g2021_25_A.effect",
+    "once": true,
+    "pos": {
+      "x": 0,
+      "y": 0,
+      "z": 0
+    },
+    "scale": {
+      "x": 1,
+      "y": 1,
+      "z": 1
+    },
+    "selfOnly": true,
+    "yaw": 0
+  },
+  "castInterval": 60,
   "cdMaskConfig": {
     "AntiClockwise": false,
     "FillPosition": "",
@@ -42,8 +59,8 @@
   "frontSight": "",
   "horizontalAlignment": 2,
   "hurtDistance": 0.1,
-  "icon": "@asset/Texture/Skill/common/icon_飞.png",
-  "icon_pushed": "",
+  "icon": "@asset/Texture/Skill/common/icon_落地.png",
+  "icon_pushed": "@asset/Texture/Skill/common/icon_飞.png",
   "ignoreCastSkillPreS": true,
   "isClick": false,
   "isShowCdPoint": false,

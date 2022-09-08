@@ -18,12 +18,12 @@
                             "max": {
                               "x": -25,
                               "y": 82,
-                              "z": -38
+                              "z": -37
                             },
                             "min": {
                               "x": -26,
                               "y": 81,
-                              "z": -39
+                              "z": -38
                             }
                           }
                         }
@@ -92,7 +92,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "ad23a21405fbc176f9a147c33ac06a33"
+      "triggers.bts": "ba2f3f363be74bc8a85ad6e675f116bb"
     },
     "VERSION": "0.22"
   }

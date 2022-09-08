@@ -1,0 +1,13 @@
+CheckpointUpdated {
+	If (ArrayFind(array = @CheckPoints, value = GetRebirthPos(entity = GetFuncsParamsVar(key = "Player"))) <= ArrayFind(array = @CheckPoints, value = GetPartPosition(part = GetFuncsParamsVar(key = "CheckpoinPart")))) {
+		SetEntityRebirthPosition(
+			entity = GetFuncsParamsVar(key = "Player"),
+			map = GetStaticMap(create = true, name = "map001"),
+			pos = GetPartPosition(part = GetFuncsParamsVar(key = "CheckpoinPart"))
+		)
+		@CurrentCheckPoint = ArrayFind(
+			array = @CheckPoints,
+			value = GetPartPosition(part = GetFuncsParamsVar(key = "CheckpoinPart"))
+		)
+	}
+}

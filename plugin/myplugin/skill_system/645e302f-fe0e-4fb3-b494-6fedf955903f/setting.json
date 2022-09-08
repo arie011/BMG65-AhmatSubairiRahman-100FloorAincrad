@@ -91,7 +91,7 @@
   },
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
-    "castAction": "die_front",
+    "castAction": "fly_idle",
     "castActionTime": {
       "__OBJ_TYPE": "Time",
       "value": 20
@@ -102,7 +102,7 @@
     "__OBJ_TYPE": "EntityEffect",
     "effect": {
       "__OBJ_TYPE": "Resource_Effect",
-      "asset": "",
+      "asset": "asset/Actor/Gray Armor Warrior/g2021_25_A.effect",
       "selector": ""
     },
     "once": true,
@@ -118,12 +118,12 @@
       "y": 1,
       "z": 1
     },
-    "selfOnly": false,
+    "selfOnly": true,
     "yaw": 0
   },
   "castInterval": {
     "__OBJ_TYPE": "Time",
-    "value": 0
+    "value": 60
   },
   "castSound": {
     "__OBJ_TYPE": "CastSound",
@@ -166,7 +166,7 @@
   "hurtDistance": 0,
   "isLimit": false,
   "isShowCdPoint": false,
-  "isTouch": false,
+  "isTouch": true,
   "lifeTime": {
     "__OBJ_TYPE": "Time",
     "value": 2
@@ -185,7 +185,7 @@
   "skill2": "7a5e7fee-d53c-43e6-aded-7a4563c4be7f",
   "skillIcon": {
     "__OBJ_TYPE": "Resource_SkillTexture",
-    "asset": "asset/Texture/Skill/common/icon_飞.png",
+    "asset": "asset/Texture/Skill/common/icon_落地.png",
     "selector": ""
   },
   "skillIconPos": {
@@ -194,7 +194,7 @@
   },
   "skillIconPushed": {
     "__OBJ_TYPE": "Resource_SkillTexture",
-    "asset": "",
+    "asset": "asset/Texture/Skill/common/icon_飞.png",
     "selector": ""
   }
 }

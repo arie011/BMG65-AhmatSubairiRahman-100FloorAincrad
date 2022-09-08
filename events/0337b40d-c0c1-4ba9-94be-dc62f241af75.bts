@@ -7,13 +7,13 @@ PART_CLICKED {
 				__OBJ_TYPE = "Vector3i",
 				x = -25,
 				y = 82,
-				z = -38
+				z = -37
 			},
 			min = {
 				__OBJ_TYPE = "Vector3i",
 				x = -26,
 				y = 81,
-				z = -39
+				z = -38
 			}
 		}
 	)

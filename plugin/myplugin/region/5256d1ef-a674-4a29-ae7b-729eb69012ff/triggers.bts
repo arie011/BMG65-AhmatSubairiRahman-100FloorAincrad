@@ -1,0 +1,3 @@
+REGION_ENTER {
+	ShowTip(keepTime = 100, textKey = "88ffe16a-b47b-446e-87ae-474d880aa2df", tipType = "1")
+}

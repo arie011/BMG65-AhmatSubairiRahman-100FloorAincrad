@@ -1,0 +1,3 @@
+REGION_ENTER {
+	ShowTip(entity = $obj1, keepTime = 60, textKey = "6de90e71-13bc-4376-be30-8e7df5c88dae", tipType = "1")
+}

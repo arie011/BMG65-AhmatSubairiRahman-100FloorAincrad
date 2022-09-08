@@ -1,0 +1,126 @@
+{
+  "data": {
+    "md5": "fa2b0858c099c9c8166fe04c04a4d106",
+    "path": "asset/Info.layout",
+    "root": {
+      "anchor": {
+        "HorizontalAlignment": "Right"
+      },
+      "children": [
+        {
+          "__OBJ_TYPE": "Button",
+          "HorzImageFormatting": "CentreAligned",
+          "HoverImage": {
+            "asset": "asset/Texture/Gui/button_green_disable.png"
+          },
+          "HoverTextColour": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "id": {
+            "value": "2421674d-9176-491b-8bdd-a3f4383807b6"
+          },
+          "name": "Button_Info",
+          "NormalImage": {
+            "asset": "asset/Texture/Gui/button_green_disable.png"
+          },
+          "NormalTextColour": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": 322.80890991174
+            },
+            "UDim_Y": {
+              "Offect": 135.27949261664
+            }
+          },
+          "Text": "Info",
+          "triggers": {
+            "list": [
+              {
+                "custom_trigger_data": {
+                  "name": {
+                    "value": "60bbf819-098d-4cd0-a6c9-85078578b656"
+                  },
+                  "type": "Trigger_WidgetClicked"
+                },
+                "root": {
+                  "components": [
+                    {
+                      "__OBJ_TYPE": "Component_Sequence",
+                      "children": [
+                        []
+                      ]
+                    }
+                  ],
+                  "id": {
+                    "value": "62ab5264-402e-4596-a720-2d2a9da72966"
+                  },
+                  "pos": {
+                    "x": 135,
+                    "y": 267
+                  }
+                },
+                "type": "Trigger_WidgetClicked"
+              }
+            ]
+          }
+        },
+        {
+          "__OBJ_TYPE": "Button",
+          "HoverImage": {
+            "asset": "asset/Texture/Gui/button_green_disable.png"
+          },
+          "HoverTextColour": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "id": {
+            "value": "91e7e979-fa19-4b42-87a2-6ff1f72304b5"
+          },
+          "name": "Button_Credits",
+          "NormalImage": {
+            "asset": "asset/Texture/Gui/button_green_disable.png"
+          },
+          "NormalTextColour": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "pos": {
+            "UDim_X": {
+              "Offect": 322.80878269675
+            },
+            "UDim_Y": {
+              "Offect": 182.23601484299
+            }
+          },
+          "Text": "Credits"
+        }
+      ],
+      "id": {
+        "value": "05915ac5-0f6e-442a-855d-2c7157d21ea3"
+      },
+      "size": {
+        "UDim_X": {
+          "Offect": 429.06282746793
+        },
+        "UDim_Y": {
+          "Offect": 321.24223613739
+        }
+      }
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "layout": "fa2b0858c099c9c8166fe04c04a4d106",
+      "triggers.bts": "3ea907cb8b96c2225a098616329db690"
+    },
+    "VERSION": "0.22"
+  }
+}

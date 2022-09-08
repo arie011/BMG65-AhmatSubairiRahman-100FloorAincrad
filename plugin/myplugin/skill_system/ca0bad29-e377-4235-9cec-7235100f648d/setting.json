@@ -142,7 +142,7 @@
   "cdAnimation": "",
   "cdTime": {
     "__OBJ_TYPE": "Time",
-    "value": 0
+    "value": 100
   },
   "damage": 20,
   "enableCdMask": false,

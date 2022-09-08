@@ -5,39 +5,44 @@
         {
           "actions": [
             {
-              "__OBJ_TYPE": "Action_SetEntityRebirthPosition",
+              "__OBJ_TYPE": "Action_Function",
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Params",
                   "params": [
                     {
                       "value": {
+                        "__OBJ_TYPE": "T_String",
+                        "rawval": "CheckpointUpdated"
+                      }
+                    },
+                    {
+                      "key": "Player",
+                      "value": {
                         "__OBJ_TYPE": "T_Entity",
-                        "action": "d5c14824-c7dc-4175-97ab-f6dafccdee04"
+                        "action": "80c9db39-bde8-43ee-befa-1865a15a0e67"
                       }
                     },
                     {
+                      "key": "CheckpoinPart",
                       "value": {
-                        "__OBJ_TYPE": "T_MapObj",
-                        "action": "198c4184-e55f-449d-8541-a2178a294346"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_ScenePos",
-                        "action": "d9e12eb1-d7c8-4bbb-a69e-a981e1c3fb6d"
+                        "__OBJ_TYPE": "T_Part",
+                        "action": "dd552b43-d9e2-47b0-be58-fbb2128035a2"
                       }
                     }
                   ]
                 }
               ],
+              "func_declare_id": "c09870ac78b_7ebbf864-5621-44d9-94b0-ce7411c39e3a",
+              "func_name": "CheckpointUpdated",
               "id": {
-                "value": "fe1653ee-5567-4919-b4ed-55f56271ab42"
+                "value": "0e10b2e1-75e7-4743-bdc8-870e775bd455"
               },
               "pos": {
-                "x": 747,
-                "y": 278
-              }
+                "x": 667,
+                "y": 304
+              },
+              "type": "T_Void"
             },
             {
               "__OBJ_TYPE": "Action_GetContextVar",
@@ -48,64 +53,13 @@
                 }
               ],
               "id": {
-                "value": "d5c14824-c7dc-4175-97ab-f6dafccdee04"
+                "value": "80c9db39-bde8-43ee-befa-1865a15a0e67"
               },
               "pos": {
-                "x": 1339,
-                "y": 143
+                "x": 1020,
+                "y": 202
               },
               "type": "T_Entity"
-            },
-            {
-              "__OBJ_TYPE": "GetStaticMap",
-              "components": [
-                {
-                  "__OBJ_TYPE": "Component_Params",
-                  "params": [
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Map",
-                        "rawval": "map001"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Bool"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "id": {
-                "value": "198c4184-e55f-449d-8541-a2178a294346"
-              },
-              "pos": {
-                "x": 1339,
-                "y": 315
-              }
-            },
-            {
-              "__OBJ_TYPE": "Action_GetPartPosition",
-              "components": [
-                {
-                  "__OBJ_TYPE": "Component_Params",
-                  "params": [
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Part",
-                        "action": "eb121efc-0f30-473f-9037-5042087ce753"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "id": {
-                "value": "d9e12eb1-d7c8-4bbb-a69e-a981e1c3fb6d"
-              },
-              "pos": {
-                "x": 1344,
-                "y": 459
-              }
             },
             {
               "__OBJ_TYPE": "Action_GetContextVar",
@@ -116,11 +70,11 @@
                 }
               ],
               "id": {
-                "value": "eb121efc-0f30-473f-9037-5042087ce753"
+                "value": "dd552b43-d9e2-47b0-be58-fbb2128035a2"
               },
               "pos": {
-                "x": 1633,
-                "y": 450
+                "x": 1029,
+                "y": 466
               },
               "type": "T_Part"
             }
@@ -137,13 +91,17 @@
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "fe1653ee-5567-4919-b4ed-55f56271ab42"
+                    "action": "0e10b2e1-75e7-4743-bdc8-870e775bd455"
                   }
                 ]
               }
             ],
             "id": {
               "value": "27e75bf9-646b-4849-b2f4-ba132a1fdecf"
+            },
+            "pos": {
+              "x": 283,
+              "y": 303
             }
           },
           "type": "Trigger_PartTouchEntityBegin"
@@ -153,7 +111,7 @@
   },
   "meta": {
     "EXPORT": {
-      "triggers.bts": "9712ff8296324ef6e75b745fb2cbefdf"
+      "triggers.bts": "a2ee1cb908c2185d61b36c5d279b0d67"
     },
     "VERSION": "0.22"
   }

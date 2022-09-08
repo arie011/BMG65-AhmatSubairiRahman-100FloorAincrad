@@ -1,0 +1,13 @@
+PART_CLICKED {
+	SetEntityPosition(
+		entity = $from,
+		map = "map001",
+		pos = {
+			x = 16.942705154419,
+			y = 3.7442169570923,
+			z = -13.051788330078
+		},
+		rp = 0,
+		ry = 0
+	)
+}

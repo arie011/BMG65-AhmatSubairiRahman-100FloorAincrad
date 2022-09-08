@@ -1,0 +1,296 @@
+    <GUILayout version="4">
+        <Window type="DefaultWindow" name="Root">
+            <Window type="WindowsLook/Button" name="Button_Info">
+                <Property value="{{0,322.80890991174},{0,135.27949261664},{0,418.80890991174},{0,167.27949261664}}" name="Area">
+
+                </Property>
+                <Property value="{{999,0},{999,0}}" name="MaxSize">
+
+                </Property>
+                <Property value="Left" name="HorizontalAlignment">
+
+                </Property>
+                <Property value="Top" name="VerticalAlignment">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="HoverImage">
+
+                </Property>
+                <Property value="12" name="Font_size">
+
+                </Property>
+                <Property value="0.5" name="PivotX">
+
+                </Property>
+                <Property value="ffffffff" name="HoverTextColour">
+
+                </Property>
+                <Property value="0.5" name="PivotY">
+
+                </Property>
+                <Property value="false" name="ClippedByParent">
+
+                </Property>
+                <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
+
+                </Property>
+                <Property value="0 0 0 0" name="PushedStretch">
+
+                </Property>
+                <Property value="0" name="BorderWidth">
+
+                </Property>
+                <Property value="" name="SoundFile">
+
+                </Property>
+                <Property value="ffffffff" name="NormalTextColour">
+
+                </Property>
+                <Property value="CentreAligned" name="HorzImageFormatting">
+
+                </Property>
+                <Property value="false" name="btn_word_warpped">
+
+                </Property>
+                <Property value="false" name="AutoTextScale">
+
+                </Property>
+                <Property value="x:0 y:0" name="TextOffset">
+
+                </Property>
+                <Property value="ffffffff" name="PushedTextColour">
+
+                </Property>
+                <Property value="DroidSans-12" name="Font">
+
+                </Property>
+                <Property value="None" name="SoundTriggerRange">
+
+                </Property>
+                <Property value="MousePassThroughClose" name="WindowTouchThroughMode">
+
+                </Property>
+                <Property value="false" name="TextWordBreak">
+
+                </Property>
+                <Property value="0 0 0 0" name="DisabledStretch">
+
+                </Property>
+                <Property value="Stretched" name="VertImageFormatting">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_act.png" name="PushedImage">
+
+                </Property>
+                <Property value="0 0 0 0" name="HoverStretch">
+
+                </Property>
+                <Property value="ff888888" name="DisabledTextColour">
+
+                </Property>
+                <Property value="1" name="Volume">
+
+                </Property>
+                <Property value="1" name="WindowTouchThroughAlpha">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="NormalImage">
+
+                </Property>
+                <Property value="false" name="Disabled">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="DisabledImage">
+
+                </Property>
+                <Property value="true" name="Visible">
+
+                </Property>
+                <Property value="0 0 0 0" name="NormalStretch">
+
+                </Property>
+                <Property value="ffffffff" name="BorderColor">
+
+                </Property>
+                <Property value="Info" name="Text">
+
+                </Property>
+                <Property value="1" name="Alpha">
+
+                </Property>
+                <Property value="0" name="TextBoldWeight">
+
+                </Property>
+            </Window>
+            <Window type="WindowsLook/Button" name="Button_Credits">
+                <Property value="{{0,322.80878269675},{0,182.23601484299},{0,418.80878269675},{0,214.23601484299}}" name="Area">
+
+                </Property>
+                <Property value="{{999,0},{999,0}}" name="MaxSize">
+
+                </Property>
+                <Property value="Left" name="HorizontalAlignment">
+
+                </Property>
+                <Property value="Top" name="VerticalAlignment">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="HoverImage">
+
+                </Property>
+                <Property value="12" name="Font_size">
+
+                </Property>
+                <Property value="0.5" name="PivotX">
+
+                </Property>
+                <Property value="ffffffff" name="HoverTextColour">
+
+                </Property>
+                <Property value="0.5" name="PivotY">
+
+                </Property>
+                <Property value="false" name="ClippedByParent">
+
+                </Property>
+                <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
+
+                </Property>
+                <Property value="0 0 0 0" name="PushedStretch">
+
+                </Property>
+                <Property value="0" name="BorderWidth">
+
+                </Property>
+                <Property value="" name="SoundFile">
+
+                </Property>
+                <Property value="ffffffff" name="NormalTextColour">
+
+                </Property>
+                <Property value="Stretched" name="HorzImageFormatting">
+
+                </Property>
+                <Property value="false" name="btn_word_warpped">
+
+                </Property>
+                <Property value="false" name="AutoTextScale">
+
+                </Property>
+                <Property value="x:0 y:0" name="TextOffset">
+
+                </Property>
+                <Property value="ffffffff" name="PushedTextColour">
+
+                </Property>
+                <Property value="DroidSans-12" name="Font">
+
+                </Property>
+                <Property value="None" name="SoundTriggerRange">
+
+                </Property>
+                <Property value="MousePassThroughClose" name="WindowTouchThroughMode">
+
+                </Property>
+                <Property value="false" name="TextWordBreak">
+
+                </Property>
+                <Property value="0 0 0 0" name="DisabledStretch">
+
+                </Property>
+                <Property value="Stretched" name="VertImageFormatting">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_act.png" name="PushedImage">
+
+                </Property>
+                <Property value="0 0 0 0" name="HoverStretch">
+
+                </Property>
+                <Property value="ff888888" name="DisabledTextColour">
+
+                </Property>
+                <Property value="1" name="Volume">
+
+                </Property>
+                <Property value="1" name="WindowTouchThroughAlpha">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="NormalImage">
+
+                </Property>
+                <Property value="false" name="Disabled">
+
+                </Property>
+                <Property value="gameres|asset/Texture/Gui/button_green_disable.png" name="DisabledImage">
+
+                </Property>
+                <Property value="true" name="Visible">
+
+                </Property>
+                <Property value="0 0 0 0" name="NormalStretch">
+
+                </Property>
+                <Property value="ffffffff" name="BorderColor">
+
+                </Property>
+                <Property value="Credits" name="Text">
+
+                </Property>
+                <Property value="1" name="Alpha">
+
+                </Property>
+                <Property value="0" name="TextBoldWeight">
+
+                </Property>
+            </Window>
+              <Property value="{{0,0},{0,0},{0,429.06282746793},{0,321.24223613739}}" name="Area">
+
+              </Property>
+              <Property value="{{999,0},{999,0}}" name="MaxSize">
+
+              </Property>
+              <Property value="Right" name="HorizontalAlignment">
+
+              </Property>
+              <Property value="Top" name="VerticalAlignment">
+
+              </Property>
+              <Property value="0.5" name="PivotX">
+
+              </Property>
+              <Property value="w:1.0 x:0.0 y:0.0 z:0.0" name="Rotation">
+
+              </Property>
+              <Property value="0.5" name="PivotY">
+
+              </Property>
+              <Property value="false" name="ClippedByParent">
+
+              </Property>
+              <Property value="1" name="Alpha">
+
+              </Property>
+              <Property value="true" name="Visible">
+
+              </Property>
+              <Property value="1" name="Volume">
+
+              </Property>
+              <Property value="1" name="WindowTouchThroughAlpha">
+
+              </Property>
+              <Property value="MousePassThroughClose" name="WindowTouchThroughMode">
+
+              </Property>
+              <Property value="false" name="Disabled">
+
+              </Property>
+              <Property value="" name="SoundFile">
+
+              </Property>
+              <Property value="None" name="SoundTriggerRange">
+
+              </Property>
+        </Window>
+    </GUILayout>

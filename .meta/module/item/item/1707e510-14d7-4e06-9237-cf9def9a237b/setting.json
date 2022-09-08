@@ -1,0 +1,51 @@
+{
+  "data": {
+    "canUse": true,
+    "item": {
+      "base": {
+        "__OBJ_TYPE": "ItemUse"
+      },
+      "type": "Use"
+    },
+    "mesh": {
+      "asset": "asset/Mesh/Blue Diamond/g2040_building_diamond_blue.mesh"
+    },
+    "name": {
+      "value": "item_1707e510-14d7-4e06-9237-cf9def9a237b"
+    },
+    "stack_count_max": 5,
+    "triggers": {
+      "list": [
+        {
+          "custom_trigger_data": {
+            "name": {
+              "value": "5335a391-694f-4c70-ba3a-358765890757"
+            },
+            "type": "Trigger_DropItemPicked"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  []
+                ]
+              }
+            ],
+            "id": {
+              "value": "722b400a-ca2b-49f7-87de-0a1bb34d3c8c"
+            }
+          },
+          "type": "Trigger_DropItemPicked"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "5654ed5b62cf448007f7264dd5f58fed",
+      "triggers.bts": "c0d6f02bfd0c82d2f03543a13c94ffbd"
+    },
+    "VERSION": "0.22"
+  }
+}

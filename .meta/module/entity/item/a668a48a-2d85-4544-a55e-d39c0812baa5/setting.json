@@ -4,7 +4,12 @@
       "asset": "asset/Actor/Gavel Green Dwarf/Evil Goblin.actor"
     },
     "AI_attack": {
-      "enable": true
+      "enable": true,
+      "skillList": [
+        {
+          "fullName": "myplugin/ca0bad29-e377-4235-9cec-7235100f648d"
+        }
+      ]
     },
     "AI_home": {
       "homeSize": 5
@@ -29,12 +34,98 @@
     },
     "reviveTime": {
       "value": 200
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_AddItem",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "a32ebefb-5c06-41e0-bc3c-1aedce037005"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ItemEntry",
+                        "rawval": "myplugin/df299752-6f66-4a11-93e5-947fadc495cd"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "ff240aff-f615-40a3-ac02-e95902159358"
+              },
+              "pos": {
+                "x": 629,
+                "y": 281
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "a32ebefb-5c06-41e0-bc3c-1aedce037005"
+              },
+              "pos": {
+                "x": 1017,
+                "y": 183
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "414af00b-82a8-43ef-b12c-5bb387915a5e"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "ff240aff-f615-40a3-ac02-e95902159358"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "2ff3ad8c-fe20-4829-bdbc-7dd8fb8219e0"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "ab6dae0d73624661f91c810d0c21f63e",
-      "triggers.bts": ""
+      "setting.json": "9854174f929325426172280e3dc6ca3b",
+      "triggers.bts": "7efaa88a7ad12129af85c3502958c109"
     },
     "VERSION": "0.22"
   }
