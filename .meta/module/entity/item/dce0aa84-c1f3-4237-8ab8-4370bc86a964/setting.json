@@ -78,6 +78,11 @@
                                 "value": "97d84702-a9f7-4aa1-9476-efd75999eb44"
                               },
                               "npc": "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+                            },
+                            {
+                              "msg": {
+                                "value": "228b100b-47a5-4fd2-a9bb-7d17fba217ea"
+                              }
                             }
                           ]
                         }
@@ -151,13 +156,15 @@
           "type": "Trigger_EntityClick"
         }
       ]
-    }
+    },
+    "unAssailable": true,
+    "unDamageable": true
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "b999108e7773ba26d650371767deee48",
-      "triggers.bts": "020b500cf7f72d4d4e80518670750867"
+      "setting.json": "98b6b32eb5b1a11dbcde75f790872c3c",
+      "triggers.bts": "ba6cef6bc54be719a621f9eac04fe679"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

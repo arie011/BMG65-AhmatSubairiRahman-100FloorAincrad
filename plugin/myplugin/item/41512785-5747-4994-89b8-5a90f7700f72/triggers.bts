@@ -1,7 +1,3 @@
-HAND_ITEM_CHANGED_HAND {
+REMOVE_ITEM_AT_COUNT {
 	AddEntityHp(entity = $obj1, step = 50)
-}
-
-USE_ITEM {
-	ConsumeItem2(entity = $obj1, item = "myplugin/41512785-5747-4994-89b8-5a90f7700f72", num = 0, reason = "")
 }

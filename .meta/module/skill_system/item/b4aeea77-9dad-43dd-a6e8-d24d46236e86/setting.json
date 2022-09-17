@@ -6,9 +6,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "301295e828a232ee52e6585f22769a3d",
+      "setting.json": "52ef4c73ed16ed2136a164cfe5b971f3",
       "triggers.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

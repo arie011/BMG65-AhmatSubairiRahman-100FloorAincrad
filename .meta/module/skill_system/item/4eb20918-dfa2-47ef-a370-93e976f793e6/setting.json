@@ -18,7 +18,11 @@
     "castEffect": {
       "selfOnly": true
     },
+    "cdTime": {
+      "value": 40
+    },
     "damage": 20,
+    "enableCdTip": true,
     "name": {
       "value": "skill_system_4eb20918-dfa2-47ef-a370-93e976f793e6"
     },
@@ -31,9 +35,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "4ae2b90dbdcbaa46ebeee99760ef6d87",
+      "setting.json": "4f29aa935e9e514171041349f15f5133",
       "triggers.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

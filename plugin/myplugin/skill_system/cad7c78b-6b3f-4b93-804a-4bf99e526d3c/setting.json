@@ -19,9 +19,9 @@
     },
     "position": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "preview_dialog": {
       "__OBJ_TYPE": "CollisionboxPreview",
@@ -31,9 +31,9 @@
     "radius_c": 0.5,
     "rotate": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "size": {
       "__OBJ_TYPE": "Vector3",
@@ -61,17 +61,17 @@
     },
     "position": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "radius": 0.5,
     "radius_c": 0.5,
     "rotate": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "size": {
       "__OBJ_TYPE": "Vector3",
@@ -89,6 +89,7 @@
     "targetType": "hitAllEntitys",
     "teamList": []
   },
+  "beginCoolDown": "",
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
     "castAction": "attack",
@@ -127,7 +128,12 @@
   },
   "castSound": {
     "__OBJ_TYPE": "CastSound",
+    "attenuationType": "0",
+    "is3dSound": false,
     "loop": false,
+    "losslessDistance": 5,
+    "maxDistance": 20,
+    "playRate": 1,
     "selfOnly": false,
     "sound": {
       "__OBJ_TYPE": "Resource_Sound",
@@ -144,14 +150,32 @@
     "__OBJ_TYPE": "Time",
     "value": 100
   },
+  "chargeAntiClockwise": false,
+  "chargeCdAnimation": "",
+  "chargeCdTime": {
+    "__OBJ_TYPE": "Time",
+    "value": 0
+  },
+  "chargeEnableCdMask": false,
+  "chargeEnableCdTip": false,
+  "chargeFillPosition": "",
+  "chargeFillType": "Horizontal",
+  "chargeIsShowCdPoint": false,
+  "chargeTimes": 2,
   "damage": 10,
   "enableCdMask": false,
   "enableCdTip": false,
+  "enableChargeTime": false,
   "FillPosition": "",
   "FillType": "Horizontal",
   "hitEntitySound": {
     "__OBJ_TYPE": "CastSound",
+    "attenuationType": "0",
+    "is3dSound": false,
     "loop": false,
+    "losslessDistance": 5,
+    "maxDistance": 20,
+    "playRate": 1,
     "selfOnly": false,
     "sound": {
       "__OBJ_TYPE": "Resource_Sound",
@@ -181,6 +205,7 @@
     "__OBJ_TYPE": "Time",
     "value": 0
   },
+  "recoveryTimes": "",
   "skill1": "cad7c78b-6b3f-4b93-804a-4bf99e526d3c",
   "skill2": "c656b83c-82a6-45d2-941d-7af3f814ae8f",
   "skillIcon": {

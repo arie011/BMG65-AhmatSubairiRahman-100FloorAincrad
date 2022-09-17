@@ -1,2 +1,4 @@
-DROPITEM_PICKED {
+REMOVE_ITEM_AT_COUNT {
+	ShowTip(entity = $obj1, keepTime = 60, textKey = "d8821d40-d695-41f1-b21b-3a57dc5ed9ac", tipType = "1")
+	AddEntityBuff(buffTime = 100, cfg = "myplugin/ac4a1b13-916c-497d-8874-63d3aad8ffc3", entity = $obj1)
 }

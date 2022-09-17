@@ -1,0 +1,34 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Green Eye Yellow and Black Striped Spider/Black Spider.actor"
+    },
+    "AI_attack": {
+      "attackMode": "autoAttack",
+      "enable": true,
+      "skillList": [
+        []
+      ]
+    },
+    "canRevive": true,
+    "enableAI": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "maxHp": 100,
+    "name": {
+      "value": "entity_f5f2db3a-c7f6-43e9-850c-79126fa90dea"
+    },
+    "reviveTime": {
+      "value": 600
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "7d644f5f58d0423527eae7d485a657f6",
+      "triggers.bts": ""
+    },
+    "VERSION": "0.24"
+  }
+}

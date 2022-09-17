@@ -1,0 +1,3 @@
+WIDGET_CREATE {
+	SetWindowIsShow(instance = $instance, visible = false)
+}

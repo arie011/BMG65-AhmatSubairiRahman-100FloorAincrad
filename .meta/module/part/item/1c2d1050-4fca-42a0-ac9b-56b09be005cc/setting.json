@@ -58,8 +58,8 @@
                 "value": "5c963f2e-fec9-4505-b8d8-031d6555bd0e"
               },
               "pos": {
-                "x": 1457,
-                "y": 492
+                "x": 1524,
+                "y": 480
               },
               "type": "T_Entity"
             }
@@ -94,6 +94,6 @@
     "EXPORT": {
       "triggers.bts": "d9db817570479a35f9165372d17f5d0f"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

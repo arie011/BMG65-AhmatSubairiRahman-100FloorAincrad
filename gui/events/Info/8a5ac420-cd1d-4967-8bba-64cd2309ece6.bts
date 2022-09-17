@@ -1,0 +1,6 @@
+WIDGET_TOUCH_PRESS {
+	SetWindowIsShow(
+		instance = GetChildWidgetByName(instance = $instance, name = "Image_Info"),
+		visible = SetUIVar(instance = $rootInstance, key = "IsInfoOn", value = false)
+	)
+}

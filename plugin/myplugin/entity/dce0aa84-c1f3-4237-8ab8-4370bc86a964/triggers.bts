@@ -35,6 +35,10 @@ ENTITY_CLICK {
 			{
 				msg = "97d84702-a9f7-4aa1-9476-efd75999eb44",
 				npc = "myplugin/dce0aa84-c1f3-4237-8ab8-4370bc86a964"
+			},
+			{
+				msg = "228b100b-47a5-4fd2-a9bb-7d17fba217ea",
+				npc = ""
 			}
 		]
 	)

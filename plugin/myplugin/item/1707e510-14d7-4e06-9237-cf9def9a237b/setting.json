@@ -4,9 +4,8 @@
   "canEquipPlural": true,
   "canUse": true,
   "dropSpeed": 0.2,
-  "icon": "",
+  "icon": "@asset/Mesh/Blue Diamond/g2040_building_diamond_blue.tga",
   "itemname": "item_1707e510-14d7-4e06-9237-cf9def9a237b",
-  "mesh": "asset/Mesh/Blue Diamond/g2040_building_diamond_blue.mesh",
   "needSave": false,
   "stack_count_max": 5,
   "syncGameData": {

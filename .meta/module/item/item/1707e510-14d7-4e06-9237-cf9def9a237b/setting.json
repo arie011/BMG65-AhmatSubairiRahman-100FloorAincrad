@@ -1,14 +1,14 @@
 {
   "data": {
     "canUse": true,
+    "icon": {
+      "asset": "asset/Mesh/Blue Diamond/g2040_building_diamond_blue.tga"
+    },
     "item": {
       "base": {
         "__OBJ_TYPE": "ItemUse"
       },
       "type": "Use"
-    },
-    "mesh": {
-      "asset": "asset/Mesh/Blue Diamond/g2040_building_diamond_blue.mesh"
     },
     "name": {
       "value": "item_1707e510-14d7-4e06-9237-cf9def9a237b"
@@ -17,35 +17,167 @@
     "triggers": {
       "list": [
         {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_AddEntityBuff",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "ab102b59-18e6-4d3d-be3f-94619be52579"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_BuffEntry",
+                        "rawval": "myplugin/ac4a1b13-916c-497d-8874-63d3aad8ffc3"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Bool"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Time",
+                        "rawval": {
+                          "value": 100
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "6cf30df6-1a10-4ad2-a1d2-ffd1af37f8bd"
+              },
+              "pos": {
+                "x": 708,
+                "y": 343
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_ShowTip",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "7e7002ed-fddf-46f5-8571-2be4556fe651"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_TipType"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Text",
+                        "rawval": {
+                          "value": "d8821d40-d695-41f1-b21b-3a57dc5ed9ac"
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Time",
+                        "rawval": {
+                          "value": 60
+                        }
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "9baaed46-ce84-4258-82b0-6ec32e555148"
+              },
+              "pos": {
+                "x": 704,
+                "y": 87
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "7e7002ed-fddf-46f5-8571-2be4556fe651"
+              },
+              "pos": {
+                "x": 1254,
+                "y": 168
+              },
+              "type": "T_Entity"
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj1"
+                }
+              ],
+              "id": {
+                "value": "ab102b59-18e6-4d3d-be3f-94619be52579"
+              },
+              "pos": {
+                "x": 1256,
+                "y": 422
+              },
+              "type": "T_Entity"
+            }
+          ],
           "custom_trigger_data": {
             "name": {
-              "value": "5335a391-694f-4c70-ba3a-358765890757"
+              "value": "570201a2-0899-4d7d-9696-a99592f02550"
             },
-            "type": "Trigger_DropItemPicked"
+            "type": "Trigger_RemoveItem"
           },
           "root": {
             "components": [
               {
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
-                  []
+                  {
+                    "action": "9baaed46-ce84-4258-82b0-6ec32e555148"
+                  },
+                  {
+                    "action": "6cf30df6-1a10-4ad2-a1d2-ffd1af37f8bd"
+                  }
                 ]
               }
             ],
             "id": {
-              "value": "722b400a-ca2b-49f7-87de-0a1bb34d3c8c"
+              "value": "6343ccb5-dea1-4fe8-a2a0-103ddd803ad5"
             }
           },
-          "type": "Trigger_DropItemPicked"
+          "type": "Trigger_RemoveItem"
         }
       ]
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "5654ed5b62cf448007f7264dd5f58fed",
-      "triggers.bts": "c0d6f02bfd0c82d2f03543a13c94ffbd"
+      "setting.json": "7afd624020a368850aee86eaf95fcfbb",
+      "triggers.bts": "4acc46175238946b7f9b616b9b902370"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

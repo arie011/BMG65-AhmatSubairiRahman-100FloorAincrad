@@ -1,0 +1,3 @@
+PART_TOUCH_ENTITY_BEGIN {
+	ExecFunction(CheckpoinPart = $part1, func_name = "CheckpointUpdated", Player = $obj2)
+}

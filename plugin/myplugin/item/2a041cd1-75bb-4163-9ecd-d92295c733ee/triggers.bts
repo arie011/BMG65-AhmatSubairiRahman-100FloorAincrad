@@ -1,0 +1,7 @@
+HAND_ITEM_CHANGED_HAND {
+	AddEntityBuff(cfg = "myplugin/80a8048b-12c2-4272-b92f-1f71e9588ca7", entity = $obj1)
+}
+
+HAND_ITEM_CHANGED_UNHAND {
+	RemoveBuffByFullName(buff = "myplugin/80a8048b-12c2-4272-b92f-1f71e9588ca7", entity = $obj1, toTeam = false)
+}

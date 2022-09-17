@@ -3,6 +3,7 @@
     "instances": [
       {
         "__OBJ_TYPE": "Instance_Part_Storage",
+        "batchType": "Dynamic",
         "btsKey": "02fb0fe6-f451-469c-9f4c-9b55307b023f",
         "density": 2.2,
         "friction": 0.15,
@@ -39,9 +40,11 @@
       },
       {
         "__OBJ_TYPE": "Instance_Model",
+        "batchType": "Dynamic",
         "children": [
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f3b5fe7d-5785-48a3-ae75-0937aef0a8a1",
             "density": 2.2,
             "friction": 0.37,
@@ -76,6 +79,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "a825a769-0848-44e7-be29-71c82872070b",
             "density": 2.2,
             "friction": 0.37,
@@ -117,6 +121,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "3697e129-6249-430a-96c3-d89b3489b9a5",
             "density": 2.2,
             "friction": 0.37,
@@ -158,6 +163,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "b653d91d-41e0-4576-b34c-958f59189ac1",
             "density": 2.2,
             "friction": 0.37,
@@ -199,6 +205,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f7df9ebc-c816-4c77-a483-c3c258b7e8ee",
             "density": 2.2,
             "friction": 0.37,
@@ -242,6 +249,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "dceefa53-2774-4993-980e-486648ca2fb0",
             "density": 2.2,
             "friction": 0.37,
@@ -283,6 +291,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "c18c9838-bdfe-4bcc-9714-6797f960be46",
             "density": 2.2,
             "friction": 0.37,
@@ -324,6 +333,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "2cfa8a90-3537-47bb-bc9c-02f30daad53d",
             "density": 2.2,
             "friction": 0.37,
@@ -365,6 +375,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "3b6b9f2e-062f-40c7-b6f9-54dc505a8e50",
             "density": 2.2,
             "friction": 0.37,
@@ -406,6 +417,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "5a6900ab-91b5-474e-a85c-a81d25b3677b",
             "density": 2.2,
             "friction": 0.37,
@@ -447,6 +459,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "56d46dcc-4c49-4834-bc4d-4198c80f9eeb",
             "density": 2.2,
             "friction": 0.37,
@@ -488,6 +501,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "b8f67603-b5e4-4917-8e1f-4d7366eb5d32",
             "density": 2.2,
             "friction": 0.37,
@@ -529,6 +543,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "1644b4f1-707e-4c06-bc2e-2de57cb0fdd9",
             "density": 2.2,
             "friction": 0.37,
@@ -570,6 +585,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "35ba2263-4852-4561-af9f-d223af899579",
             "density": 2.2,
             "friction": 0.37,
@@ -611,6 +627,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "99d629b3-2ba2-4872-8ca4-26aac24b639b",
             "density": 2.2,
             "friction": 0.37,
@@ -652,6 +669,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f6c7210d-a364-4908-92a7-7c6fd91e81b2",
             "density": 2.2,
             "friction": 0.37,
@@ -693,6 +711,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "d7dc141e-3db4-489c-b522-a9dbb54de5a6",
             "density": 2.2,
             "friction": 0.37,
@@ -734,6 +753,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "25139aee-0e7c-403c-88a9-c592eece02a6",
             "density": 2.2,
             "friction": 0.37,
@@ -775,10 +795,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "63d11d4b-02d6-4315-8414-ea8eca820fc8",
-            "children": [
+            "collisionUniqueKey": "8784097956035919873",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "1a25dc17-898a-417b-b429-f2f8ef019d74",
                 "density": 2.2,
@@ -816,6 +839,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "2cc7917b-63aa-4d9b-9f84-e44f6e5c24f1",
                 "density": 2.2,
                 "friction": 0.37,
@@ -843,7 +867,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956035919873",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956035919873",
@@ -884,6 +907,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "7699ef75-7088-492f-bc2d-cb5217589d3b",
             "density": 2.2,
             "friction": 0.37,
@@ -925,10 +949,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "b293db07-cc4d-41ef-8434-03fa12743dd9",
-            "children": [
+            "collisionUniqueKey": "8784097956048535553",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "daece9ea-fc96-4fd8-92a3-804f53d5e3c5",
                 "density": 2.2,
@@ -966,6 +993,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "608d020e-7b97-4c86-9400-17df2d829767",
                 "density": 2.2,
                 "friction": 0.37,
@@ -993,7 +1021,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956048535553",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956048535553",
@@ -1034,6 +1061,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9c0c040d-b23d-4c9c-a731-c12a340e4437",
             "density": 2.2,
             "friction": 0.37,
@@ -1075,10 +1103,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "154e3b33-1d5a-4638-9a38-223b0f8b7ac7",
-            "children": [
+            "collisionUniqueKey": "8784097956063526913",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "3905a5b8-9039-4797-b6c7-454a7c1d3cfe",
                 "density": 2.2,
@@ -1116,6 +1147,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "cc6134f9-316a-401e-af83-3bb8057d5d80",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1143,7 +1175,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956063526913",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956063526913",
@@ -1184,10 +1215,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "d486e048-631f-4ee6-a8fa-b9708ed9b6d6",
-            "children": [
+            "collisionUniqueKey": "8784097956074471425",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "b2d51453-27e9-443f-a359-26c6969cbff2",
                 "density": 2.2,
@@ -1225,6 +1259,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "8a4f588f-455b-4c0a-bb6d-80c7a2d14e6f",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1252,7 +1287,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956074471425",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956074471425",
@@ -1293,10 +1327,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "7c878b5e-43d5-4086-be25-14d9b2310656",
-            "children": [
+            "collisionUniqueKey": "8784097956084023297",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "57043254-c42b-4c38-8a64-47f47d79db38",
                 "density": 2.2,
@@ -1334,6 +1371,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "7d5e00c8-15d5-4cbf-b29b-5e259fa722df",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1361,7 +1399,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956084023297",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956084023297",
@@ -1402,6 +1439,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "71d21d86-4659-4fe6-a69b-f114a5dd7e44",
             "density": 2.2,
             "friction": 0.37,
@@ -1443,6 +1481,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "5d5526bf-2adf-4750-af8c-497c84c8e6bd",
             "density": 2.2,
             "friction": 0.37,
@@ -1484,6 +1523,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "4c02c197-f0c9-41e5-ba8e-8ec1b78d22cd",
             "density": 2.2,
             "friction": 0.37,
@@ -1525,10 +1565,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "1359cf6a-2469-400e-a260-8598a15d0c3f",
-            "children": [
+            "collisionUniqueKey": "8784097956104929281",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "3950b5c8-2eaf-4cfb-a508-c748050d8500",
                 "density": 2.2,
@@ -1566,6 +1609,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "7e6aea0d-70aa-4a8f-921d-d03507e2be60",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1593,7 +1637,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956104929281",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956104929281",
@@ -1634,6 +1677,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "0330a846-8ecc-4be0-9125-94040727077c",
             "density": 2.2,
             "friction": 0.37,
@@ -1675,6 +1719,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "3a75b01a-4168-415a-bc16-3d0e2b7a1179",
             "density": 2.2,
             "friction": 0.37,
@@ -1716,6 +1761,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "c124fd06-359d-4d45-8cca-7617e25d211f",
             "density": 2.2,
             "friction": 0.37,
@@ -1757,6 +1803,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "dc28b644-0029-486d-82c5-10679b8346df",
             "density": 2.2,
             "friction": 0.37,
@@ -1798,10 +1845,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "28a656a4-3b43-4b47-a885-1ec59e342f7d",
-            "children": [
+            "collisionUniqueKey": "8784097956128325633",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "db7e3f24-4104-4ca2-8eb7-73e70b41eb0d",
                 "density": 2.2,
@@ -1839,6 +1889,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "04136023-c3b0-4c7e-ac2c-ae85f5513e86",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1866,7 +1917,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956128325633",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956128325633",
@@ -1907,26 +1957,37 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9777cb44-1718-4ec9-bfba-bbe54272bc5d",
-            "children": [
+            "collisionUniqueKey": "8784097956143693825",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "f67385b1-7a97-415b-bfd0-24daced47c24",
-                "children": [
+                "collisionUniqueKey": "8784097956148723713",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "40864087-b3ee-4a4a-9d89-30e5beb4479e",
-                    "children": [
+                    "collisionUniqueKey": "8784097956153114625",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                        "batchType": "Dynamic",
                         "btsKey": "d783f060-1927-4979-ad85-12c9e5f2dbb4",
-                        "children": [
+                        "collisionUniqueKey": "8784097956156211201",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                            "batchType": "Dynamic",
                             "btsKey": "61cdc605-b7f4-43bc-9236-0e063ad27803",
-                            "children": [
+                            "collisionUniqueKey": "8784097956158210049",
+                            "componentList": [
                               {
                                 "__OBJ_TYPE": "Instance_Part_Storage",
+                                "batchType": "Dynamic",
                                 "btsKey": "3cc97de6-c060-4ff4-a1ed-89bd55f413a2",
                                 "density": 2.2,
                                 "friction": 0.37,
@@ -1963,6 +2024,7 @@
                               },
                               {
                                 "__OBJ_TYPE": "Instance_Part_Storage",
+                                "batchType": "Dynamic",
                                 "booleanOperation": 2,
                                 "btsKey": "283e5db7-208a-4ed5-9d24-210fbc3b594f",
                                 "density": 2.2,
@@ -1992,7 +2054,6 @@
                                 }
                               }
                             ],
-                            "collisionUniqueKey": "8784097956158210049",
                             "density": 2.2,
                             "friction": 0.37,
                             "id": "8784097956158210049",
@@ -2028,6 +2089,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part_Storage",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "e48ed980-201f-42c6-8a47-4af7e1abbc8a",
                             "density": 2.2,
@@ -2056,7 +2118,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784097956156211201",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784097956156211201",
@@ -2092,6 +2153,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part_Storage",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "9e0af0ed-a990-4916-9eb9-30826ceb62bc",
                         "density": 2.2,
@@ -2123,7 +2185,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784097956153114625",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784097956153114625",
@@ -2159,6 +2220,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "12111aa2-05af-4d1b-a7b9-f36a6b8f1c61",
                     "density": 2.2,
@@ -2190,7 +2252,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784097956148723713",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097956148723713",
@@ -2226,6 +2287,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "1257269b-e623-4d60-b6df-efe4cede84ef",
                 "density": 2.2,
@@ -2257,7 +2319,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956143693825",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956143693825",
@@ -2298,6 +2359,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "35c33e9e-7994-412c-a3e5-bdaff63cc827",
             "density": 2.2,
             "friction": 0.37,
@@ -2339,6 +2401,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "fd0e6584-374e-4958-928a-bf8da626f334",
             "density": 2.2,
             "friction": 0.37,
@@ -2380,26 +2443,37 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "a56e4a81-72e4-4af4-a138-ec43192b6dfa",
-            "children": [
+            "collisionUniqueKey": "8784097956207181825",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "2d44047e-21ef-4a86-9e32-06d18bba38af",
-                "children": [
+                "collisionUniqueKey": "8784097956216111105",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "000feffb-5a4c-45da-bcd6-b33dba28d458",
-                    "children": [
+                    "collisionUniqueKey": "8784097956221943809",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                        "batchType": "Dynamic",
                         "btsKey": "deb432ec-69d5-4141-b3b4-a24560485700",
-                        "children": [
+                        "collisionUniqueKey": "8784097956225990657",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                            "batchType": "Dynamic",
                             "btsKey": "eb851f5a-68c3-4bcd-b9b9-00bd7f9fdb5e",
-                            "children": [
+                            "collisionUniqueKey": "8784097956228202497",
+                            "componentList": [
                               {
                                 "__OBJ_TYPE": "Instance_Part_Storage",
+                                "batchType": "Dynamic",
                                 "btsKey": "5e83a353-ecc7-4426-aad9-203725d13165",
                                 "density": 2.2,
                                 "friction": 0.37,
@@ -2436,6 +2510,7 @@
                               },
                               {
                                 "__OBJ_TYPE": "Instance_Part_Storage",
+                                "batchType": "Dynamic",
                                 "booleanOperation": 2,
                                 "btsKey": "0fc076e7-581f-4740-8e66-618e8bfc69b6",
                                 "density": 2.2,
@@ -2472,7 +2547,6 @@
                                 }
                               }
                             ],
-                            "collisionUniqueKey": "8784097956228202497",
                             "density": 2.2,
                             "friction": 0.37,
                             "id": "8784097956228202497",
@@ -2508,6 +2582,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part_Storage",
+                            "batchType": "Dynamic",
                             "btsKey": "71dd3f5b-538b-413d-bd95-317075dd0988",
                             "density": 2.2,
                             "friction": 0.37,
@@ -2541,6 +2616,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part_Storage",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "584e642e-766f-4aaf-93fd-f56b25523d38",
                             "density": 2.2,
@@ -2574,7 +2650,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784097956225990657",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784097956225990657",
@@ -2610,6 +2685,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part_Storage",
+                        "batchType": "Dynamic",
                         "btsKey": "d049331f-a568-443f-bc94-435b885d61bd",
                         "density": 2.2,
                         "friction": 0.37,
@@ -2643,6 +2719,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part_Storage",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "cf605d17-4467-4164-981f-aa47b5e53356",
                         "density": 2.2,
@@ -2676,7 +2753,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784097956221943809",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784097956221943809",
@@ -2712,6 +2788,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "4152add0-24cb-4632-8e9f-7f1ccb045cfc",
                     "density": 2.2,
                     "friction": 0.37,
@@ -2744,6 +2821,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "66f692d3-914b-45fe-9d57-b3aee8d8c6ff",
                     "density": 2.2,
@@ -2776,7 +2854,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784097956216111105",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097956216111105",
@@ -2812,6 +2889,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "8e98cdff-3215-4eb1-9242-a08376d5043b",
                 "density": 2.2,
                 "friction": 0.37,
@@ -2844,6 +2922,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "f5503504-f17e-4855-87d4-f050a0fe9aad",
                 "density": 2.2,
@@ -2876,7 +2955,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956207181825",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956207181825",
@@ -2917,6 +2995,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f5d11434-7377-47d0-8f09-3ba6368d46d4",
             "density": 2.2,
             "friction": 0.37,
@@ -2957,6 +3036,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "c9921f97-0f0d-4e6b-8c55-aa096748b327",
             "density": 2.2,
             "friction": 0.37,
@@ -2998,6 +3078,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "f534293b-b6bd-4d3f-a7ae-c441f04efc8b",
             "density": 2.2,
             "friction": 0.37,
@@ -3039,6 +3120,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "981b3db3-10b5-420a-a3d0-574b551a7acd",
             "density": 2.2,
             "friction": 0.37,
@@ -3080,6 +3162,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "a76017c2-0221-4c38-b5c1-1804eb4f522a",
             "density": 2.2,
             "friction": 0.37,
@@ -3121,22 +3204,31 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "271da679-df7d-4f7e-9b0c-567960dfadce",
-            "children": [
+            "collisionUniqueKey": "8784097956578082817",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "cc2f3a8c-3aed-42e3-867d-3b9276f088c7",
-                "children": [
+                "collisionUniqueKey": "8784097956612276225",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "2a23feb1-6699-4150-9e8f-11cdf240799e",
-                    "children": [
+                    "collisionUniqueKey": "8784097956636917761",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                        "batchType": "Dynamic",
                         "btsKey": "ab19ed7c-29c5-4bd6-8c48-3abc7bdf3b24",
-                        "children": [
+                        "collisionUniqueKey": "8784097956649287681",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_Part_Storage",
+                            "batchType": "Dynamic",
                             "btsKey": "69f1e751-c274-4041-adcc-4e60979f9053",
                             "density": 2.2,
                             "friction": 0.37,
@@ -3173,6 +3265,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part_Storage",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "4da1af46-d721-443f-b14b-8e5e2810db82",
                             "density": 2.2,
@@ -3201,7 +3294,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784097956649287681",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784097956649287681",
@@ -3238,6 +3330,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part_Storage",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "ff8692d5-6314-4cc2-a599-c5cbe6e6a244",
                         "density": 2.2,
@@ -3266,7 +3359,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784097956636917761",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784097956636917761",
@@ -3303,6 +3395,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "6156bb57-05a4-4229-8a90-8f746e5ad87d",
                     "density": 2.2,
@@ -3331,7 +3424,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784097956612276225",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097956612276225",
@@ -3368,6 +3460,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "04416a7b-9379-4512-b9e0-944c34068043",
                 "density": 2.2,
@@ -3396,7 +3489,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956578082817",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956578082817",
@@ -3437,6 +3529,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "455ed532-1fe2-4de3-b5a4-003cba71e82b",
             "density": 2.2,
             "friction": 0.37,
@@ -3480,6 +3573,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "007cc576-d2f4-4303-b176-4520b4e76751",
             "density": 2.2,
             "friction": 0.37,
@@ -3523,6 +3617,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "0312ab6c-e2d7-40b2-a309-a3ab9dd98c85",
             "density": 2.2,
             "friction": 0.37,
@@ -3566,6 +3661,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "fd273953-67e1-4d64-a83c-0875294c72e5",
             "density": 2.2,
             "friction": 0.37,
@@ -3609,6 +3705,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "5f16e32a-ed6e-4b48-b4c6-abcd6fdb6d80",
             "density": 2.2,
             "friction": 0.37,
@@ -3652,6 +3749,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "31ef2273-ca4a-4fa4-8443-e03a39be98ce",
             "density": 2.2,
             "friction": 0.37,
@@ -3695,10 +3793,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "1d781cde-45e5-47e9-a42f-eb5a1511cfd4",
-            "children": [
+            "collisionUniqueKey": "8784097956764680193",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "11a047f3-d55a-4f5f-ad92-b4635a98fab2",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3737,6 +3838,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "04ec8f14-1d48-41d0-b416-b9d830b4544d",
                 "density": 2.2,
@@ -3775,7 +3877,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956764680193",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956764680193",
@@ -3816,10 +3917,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "eaa89314-51e0-485c-920c-216d0a6e49c9",
-            "children": [
+            "collisionUniqueKey": "8784097956789272577",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "4379e1c2-9eed-4815-8e45-623b35909899",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3858,6 +3962,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "63ff00b5-8e5c-4491-a605-997ed68d6d72",
                 "density": 2.2,
@@ -3896,7 +4001,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956789272577",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956789272577",
@@ -3937,10 +4041,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "5573bd18-8810-4d01-a41f-bc2cb1523a6c",
-            "children": [
+            "collisionUniqueKey": "8784097956807098369",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "4706a8ed-490d-45cc-ad18-1029c0b09439",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3979,6 +4086,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "07ce6093-f020-43c7-9743-65e8130e440f",
                 "density": 2.2,
@@ -4017,7 +4125,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956807098369",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956807098369",
@@ -4058,10 +4165,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "dd97342e-296b-4cc6-acba-001aab939e1d",
-            "children": [
+            "collisionUniqueKey": "8784097956826185729",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "76761317-98af-4253-bc36-2661d0de6b07",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4100,6 +4210,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "2c83647a-358b-445d-afc2-c8f3bf2a4960",
                 "density": 2.2,
@@ -4138,7 +4249,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956826185729",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956826185729",
@@ -4179,10 +4289,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "42dc4fb4-7226-4b8f-96f9-78fb61968164",
-            "children": [
+            "collisionUniqueKey": "8784097956843159553",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "ad55386d-7828-498d-9353-36e6753880dd",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4221,6 +4334,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "660002d8-c9a4-4cd0-b984-e5fc42822571",
                 "density": 2.2,
@@ -4259,7 +4373,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956843159553",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956843159553",
@@ -4300,10 +4413,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "aa165988-8d54-4517-b580-62e788e386de",
-            "children": [
+            "collisionUniqueKey": "8784097956864966657",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "047c5991-96d6-411c-a2df-d93fc1945e65",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4342,6 +4458,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "37c0a8bd-32cf-4f89-8961-ae12fb0bb300",
                 "density": 2.2,
@@ -4380,7 +4497,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956864966657",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956864966657",
@@ -4421,10 +4537,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "4ac47153-551a-45ca-8646-4dd9c2c5a2cc",
-            "children": [
+            "collisionUniqueKey": "8784097956882169857",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "a96f8fd8-63ed-426d-9e34-d69927c93d03",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4463,6 +4582,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "b56793f1-48b4-4e67-9b62-d8bfc52a8e52",
                 "density": 2.2,
@@ -4501,7 +4621,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956882169857",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956882169857",
@@ -4542,10 +4661,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "08b8ca4c-a8ea-4d04-ac46-72b4e8c94241",
-            "children": [
+            "collisionUniqueKey": "8784097956916166657",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "47511d6a-9739-47dc-92fe-8a08ec6f54cd",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4584,6 +4706,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "36d9a4ce-951a-421a-afb3-8e1179af4464",
                 "density": 2.2,
@@ -4622,7 +4745,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784097956916166657",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956916166657",
@@ -4663,6 +4785,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "7d595f27-4c86-4141-a852-5d63b43ebb67",
             "density": 2.2,
             "friction": 0.37,
@@ -4706,6 +4829,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "37764f68-f518-4bfc-a419-16608ede9e51",
             "density": 5.5,
             "friction": 0.56,
@@ -4743,6 +4867,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "a7ba3e24-dc95-4c95-a861-5bcc742500a1",
             "density": 2.2,
             "friction": 0.37,
@@ -4783,14 +4908,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "6d84f865-e1dd-4e1f-960c-af7b7ea58bb0",
-            "children": [
+            "collisionUniqueKey": "8784097956951375873",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "5f71a32d-f2aa-4381-b669-720f2bd91224",
-                "children": [
+                "collisionUniqueKey": "8784097956954062849",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "5caffc37-37b6-450a-91e1-a5dfc50a528c",
                     "density": 2.2,
                     "friction": 0.37,
@@ -4820,6 +4950,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "0bcbd42b-5e60-49ec-bf62-49a6f789bffe",
                     "density": 2.2,
@@ -4852,7 +4983,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097956954062849",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097956954062849",
@@ -4882,6 +5012,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "3a931abf-daf4-4b97-a7eb-01bab3ff3a1d",
                 "density": 2.2,
@@ -4914,7 +5045,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097956951375873",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956951375873",
@@ -4955,6 +5085,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "2ecf66da-e7b2-4acc-93e6-098b93709f34",
             "density": 2.2,
             "friction": 0.37,
@@ -4989,6 +5120,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "4be2d7d1-cdd4-4e3d-9236-8b1de17b52cb",
             "density": 2.2,
             "friction": 0.37,
@@ -5023,6 +5155,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "65efb859-e8ba-4339-8e96-c56196b1c824",
             "density": 5.5,
             "friction": 0.56,
@@ -5060,14 +5193,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9be18eae-d920-4dd9-9a0f-ed7ea3bb446f",
-            "children": [
+            "collisionUniqueKey": "8784097956990353409",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "088d895e-f355-44ed-a33a-e83eba114be5",
-                "children": [
+                "collisionUniqueKey": "8784097956993253377",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "8f47e67f-e234-4bcc-a5e5-a8679019eb7e",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5097,6 +5235,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "e9f2d95e-52f5-4d98-b1c6-32784bba074c",
                     "density": 2.2,
@@ -5129,7 +5268,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097956993253377",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097956993253377",
@@ -5159,6 +5297,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "7955bb39-de9d-4fc3-a7c5-f11edcc1d7ba",
                 "density": 2.2,
@@ -5191,7 +5330,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097956990353409",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097956990353409",
@@ -5232,6 +5370,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "83ccbf8f-0444-4f0f-a674-a1358d17ac5c",
             "density": 2.2,
             "friction": 0.37,
@@ -5272,6 +5411,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "347b9099-00ea-4231-9928-49035df0d792",
             "density": 5.5,
             "friction": 0.56,
@@ -5309,6 +5449,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "985d2a69-de77-4385-a032-2d4449dcd921",
             "density": 2.2,
             "friction": 0.37,
@@ -5349,14 +5490,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "50e31e5f-a4ae-4552-87ef-64fc82a6797f",
-            "children": [
+            "collisionUniqueKey": "8784097957027708929",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "cf782e05-7ced-4a6c-a84d-0aa9eddf39de",
-                "children": [
+                "collisionUniqueKey": "8784097957030526977",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "ff9bfa0f-6d74-4c3b-97b5-fb0710805d2f",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5386,6 +5532,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "ee9b1155-6d18-4461-8164-a4529dc4ddc5",
                     "density": 2.2,
@@ -5418,7 +5565,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957030526977",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957030526977",
@@ -5448,6 +5594,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "2344b855-1473-4588-a43a-430c1f2fc516",
                 "density": 2.2,
@@ -5480,7 +5627,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957027708929",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957027708929",
@@ -5521,6 +5667,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "21fc39e7-0be0-452b-95f0-a2528225a157",
             "density": 2.2,
             "friction": 0.37,
@@ -5555,6 +5702,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "8cbc9a58-b768-441a-a1fd-f7692f5171bf",
             "density": 5.5,
             "friction": 0.56,
@@ -5592,6 +5740,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "928d060f-ce4d-4b99-a630-10c9dc525340",
             "density": 2.2,
             "friction": 0.37,
@@ -5632,14 +5781,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9c5b6b93-9971-41e5-aa11-427bbaf43e13",
-            "children": [
+            "collisionUniqueKey": "8784097957092376577",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "2bb5fe30-dd0f-488b-9b0d-4b94e19e95f4",
-                "children": [
+                "collisionUniqueKey": "8784097957096636417",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "0a0fed72-0f4f-496f-987f-b94579599d46",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5669,6 +5823,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "72be3952-7dd5-4f67-9e68-dc0dfc023b8b",
                     "density": 2.2,
@@ -5701,7 +5856,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957096636417",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957096636417",
@@ -5731,6 +5885,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "0876ab14-7a2d-4607-b0c0-25aaef7b10f2",
                 "density": 2.2,
@@ -5763,7 +5918,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957092376577",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957092376577",
@@ -5804,6 +5958,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "ae08e602-5ed5-4d14-88a0-b21056ca7aed",
             "density": 2.2,
             "friction": 0.37,
@@ -5838,14 +5993,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "0457ccc8-d7fc-4ff5-9416-dda839aebe36",
-            "children": [
+            "collisionUniqueKey": "8784097957140152321",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "adb11d54-5708-4643-874f-5cf673df3e46",
-                "children": [
+                "collisionUniqueKey": "8784097957143068673",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "f36a1f0b-cdc8-4db0-99ed-f63476c6e076",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5875,6 +6035,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "54d95cca-4a9a-48f7-a8f2-6923053e31b4",
                     "density": 2.2,
@@ -5907,7 +6068,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957143068673",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957143068673",
@@ -5937,6 +6097,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "1b93596e-7353-4f51-98cf-4703d8a35a4b",
                 "density": 2.2,
@@ -5969,7 +6130,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957140152321",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957140152321",
@@ -6010,6 +6170,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "8ff127b4-30a2-4ce2-8034-199b93194f71",
             "density": 2.2,
             "friction": 0.37,
@@ -6050,14 +6211,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "05d92134-76b0-40b1-8d23-33457345ccc5",
-            "children": [
+            "collisionUniqueKey": "8784097957168283649",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "82cfb346-502f-45ac-981d-38f36364d9ca",
-                "children": [
+                "collisionUniqueKey": "8784097957170905089",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "9e8c5b8b-ade6-47f3-876b-54db55f5fb82",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6087,6 +6253,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "ce9af949-0872-4efe-ad13-3de8e3b9e251",
                     "density": 2.2,
@@ -6119,7 +6286,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957170905089",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957170905089",
@@ -6149,6 +6315,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "44c20c8f-5801-42d4-b26f-74d2f16ca739",
                 "density": 2.2,
@@ -6181,7 +6348,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957168283649",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957168283649",
@@ -6222,6 +6388,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "23b198b8-580d-4c83-b119-683a89378efa",
             "density": 5.5,
             "friction": 0.56,
@@ -6259,6 +6426,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "7fe12a2c-7bc9-443d-ab6e-d871072910a1",
             "density": 5.5,
             "friction": 0.56,
@@ -6296,6 +6464,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "8340639b-0fb7-4f9f-9070-897bf238ec75",
             "density": 2.2,
             "friction": 0.37,
@@ -6330,6 +6499,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "dd60fc7e-f0c5-42e2-935f-f6cbe50202f0",
             "density": 2.2,
             "friction": 0.37,
@@ -6364,6 +6534,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "3133a5e7-75d6-47bf-8bfd-a8c42fef1fa0",
             "density": 2.2,
             "friction": 0.37,
@@ -6404,6 +6575,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "ecd7dc2b-0c59-40a1-bf17-61a939b5db28",
             "density": 2.2,
             "friction": 0.37,
@@ -6444,6 +6616,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "48ff0ca9-26de-410b-92c5-eb55a273fe1f",
             "density": 2.2,
             "friction": 0.37,
@@ -6478,6 +6651,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "06549c3b-3d42-4426-8fa1-410346b484b3",
             "density": 5.5,
             "friction": 0.56,
@@ -6515,14 +6689,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "bd0254f9-4e39-476f-b66a-f3ad567b6ca9",
-            "children": [
+            "collisionUniqueKey": "8784097957241864193",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "680432cf-622b-45c4-b87d-baa0248b4458",
-                "children": [
+                "collisionUniqueKey": "8784097957253906433",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "78ddc892-d440-4c52-9b26-f7dee1b6c796",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6552,6 +6731,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "80b1e0d9-3582-491b-abf7-ade6ced16815",
                     "density": 2.2,
@@ -6584,7 +6764,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957253906433",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957253906433",
@@ -6614,6 +6793,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "48f3524d-d096-4aba-9be6-9115b45bdb3c",
                 "density": 2.2,
@@ -6646,7 +6826,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957241864193",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957241864193",
@@ -6687,6 +6866,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "3deb331f-c70e-4cef-ba2a-14598485e032",
             "density": 5.5,
             "friction": 0.56,
@@ -6724,6 +6904,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "9ad2afc6-ecfc-43f9-9f05-21b641f6528b",
             "density": 2.2,
             "friction": 0.37,
@@ -6758,6 +6939,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part_Storage",
+            "batchType": "Dynamic",
             "btsKey": "0ebb1599-253e-4295-8932-0969ff0f39af",
             "density": 2.2,
             "friction": 0.37,
@@ -6798,14 +6980,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation_Storage",
+            "batchType": "Dynamic",
             "btsKey": "122bfb53-1c8a-4dc5-b811-4b836e2e96b5",
-            "children": [
+            "collisionUniqueKey": "8784097957476302849",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation_Storage",
+                "batchType": "Dynamic",
                 "btsKey": "749ad1e7-e90c-47ce-a8df-b35e34551fab",
-                "children": [
+                "collisionUniqueKey": "8784097957481709569",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "btsKey": "b46cd465-a557-446e-b2ee-1db50b22fdf1",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6835,6 +7022,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part_Storage",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "0d8be927-0351-489b-9c89-1a709b1e1364",
                     "density": 2.2,
@@ -6867,7 +7055,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784097957481709569",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784097957481709569",
@@ -6897,6 +7084,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part_Storage",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "2bc07b2c-080a-409d-8870-82e8d25c14db",
                 "density": 2.2,
@@ -6929,7 +7117,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784097957476302849",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784097957476302849",
@@ -6992,14 +7179,25 @@
       },
       {
         "__OBJ_TYPE": "Instance_Part_Storage",
-        "btsKey": "30291e82-0334-4517-9934-2ece78210141",
+        "batchType": "Dynamic",
+        "btsKey": "a7fe8570-63cc-4b3b-b1c8-c02c4421cf95",
+        "children": [
+          {
+            "__OBJ_TYPE": "Instance_Decal",
+            "decalSurface": "4",
+            "decalTexture": {
+              "asset": "asset/effect/Color Gradient Arrow Effect/jiantou02.png"
+            },
+            "id": "8801981014882058241"
+          }
+        ],
         "density": 2.2,
         "friction": 0.37,
-        "id": "8794095778701869057",
+        "id": "8801981014887546881",
         "massCenter": {
-          "x": -47,
-          "y": 137,
-          "z": -51.230995178223
+          "x": 4.59100151062012,
+          "y": 176.499984741211,
+          "z": -12.2789993286133
         },
         "material": {
           "color": {
@@ -7009,11 +7207,14 @@
         },
         "name": "CP",
         "position": {
-          "x": -47,
-          "y": 137,
-          "z": -51.230995178223
+          "x": 4.59100151062012,
+          "y": 176.499984741211,
+          "z": -12.2789993286133
         },
         "restitution": 0.3,
+        "rotation": {
+          "y": -90
+        },
         "scale": {
           "x": 4.20596,
           "y": 0.678985,
@@ -7030,8 +7231,8 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "1d8350002154d7de4568225a6f69a53f"
+      "setting.json": "9612f8d35b20cfb434055b0140649dc6"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

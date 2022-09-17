@@ -7,16 +7,15 @@
       "value": 80
     },
     "damage": 50,
-    "hurtDistance": 0.1,
     "name": {
       "value": "skill_system_e15871ad-db1a-42f9-92ef-505877fd7a4a"
     }
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "5bce8dc25277a09079c1e67869ee93d8",
+      "setting.json": "05019f6465890ba5cfa59d7f8d87198a",
       "triggers.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

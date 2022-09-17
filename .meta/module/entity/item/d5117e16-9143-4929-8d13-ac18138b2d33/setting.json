@@ -18,12 +18,18 @@
       "patrolDistance": 3,
       "patrolMode": "randomPath"
     },
+    "canRevive": true,
     "enableAI": true,
     "girlactor": {
       "asset": ""
     },
+    "hideHp": false,
+    "maxHp": 100,
     "name": {
       "value": "entity_d5117e16-9143-4929-8d13-ac18138b2d33"
+    },
+    "reviveTime": {
+      "value": 200
     },
     "triggers": {
       "list": [
@@ -38,7 +44,7 @@
                     {
                       "value": {
                         "__OBJ_TYPE": "T_Entity",
-                        "action": "eb186839-d848-46c6-be26-115ec0152679"
+                        "action": "a261fd74-e715-40bf-827c-c8f062521043"
                       }
                     },
                     {
@@ -64,8 +70,8 @@
                 "value": "0681a7c4-26c7-4d43-ae08-676cc102b547"
               },
               "pos": {
-                "x": 618,
-                "y": 297
+                "x": 653,
+                "y": 218
               }
             },
             {
@@ -73,15 +79,15 @@
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Context",
-                  "key": "obj1"
+                  "key": "obj2"
                 }
               ],
               "id": {
-                "value": "eb186839-d848-46c6-be26-115ec0152679"
+                "value": "a261fd74-e715-40bf-827c-c8f062521043"
               },
               "pos": {
-                "x": 1051,
-                "y": 350
+                "x": 1043,
+                "y": 270
               },
               "type": "T_Entity"
             }
@@ -114,9 +120,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "9e828977f0abdf361d7d525f296119aa",
-      "triggers.bts": "7efaa88a7ad12129af85c3502958c109"
+      "setting.json": "8f28e024bdc28e9af93889d56d8d6e2a",
+      "triggers.bts": "88ca127a1d7f7dd3321a5be541cef647"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

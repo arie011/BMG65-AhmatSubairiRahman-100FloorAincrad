@@ -1,0 +1,3 @@
+ENTITY_DIE {
+	AddItem(cfg = "myplugin/df299752-6f66-4a11-93e5-947fadc495cd", count = 10, entity = $obj2, reason = "")
+}

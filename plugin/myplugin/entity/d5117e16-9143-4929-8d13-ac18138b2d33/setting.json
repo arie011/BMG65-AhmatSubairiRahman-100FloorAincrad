@@ -10,6 +10,7 @@
   "autoRotateColliderBox": true,
   "avoidCliff": true,
   "avoidCliffHight": 5,
+  "boundingScaleWithSize": true,
   "canClick": false,
   "canHurtMove": true,
   "canJump": true,
@@ -28,14 +29,14 @@
       "z": 0.6
     },
     "offset": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "type": "Box"
   },
@@ -55,12 +56,13 @@
   "gravity": 0.08,
   "headPic": "",
   "hideHolder": false,
-  "hideHp": 1,
+  "hideHp": 0,
   "hideName": false,
   "homeSize": 6,
-  "hpBarColor": 4294967551.0,
+  "hpBarColor": 4294967551,
   "hpBarHeight": 0.2,
   "hpBarWidth": 1,
+  "hpFaceCamera": 0,
   "hurtResistantTime": 0,
   "idleProb": 0,
   "idleTime": [
@@ -71,7 +73,7 @@
   "isPlayer": false,
   "jumpHeight": 0.6,
   "jumpSpeed": 0.5,
-  "maxHp": 20,
+  "maxHp": 100,
   "maxVisualAngle": 360,
   "meetCliffBackRun": true,
   "moveAcc": 0.2,
@@ -85,6 +87,7 @@
     ""
   ],
   "reachDistance": 6.5,
+  "reviveTime": 200,
   "setFollowWhenCreate": true,
   "skillInfoList": [
     {

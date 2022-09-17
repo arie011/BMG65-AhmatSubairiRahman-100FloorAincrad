@@ -1,14 +1,119 @@
 {
   "data": {
-    "md5": "fa2b0858c099c9c8166fe04c04a4d106",
+    "md5": "f1937ec3be2c437ae26f4846383a8b5b",
     "path": "asset/Info.layout",
     "root": {
       "anchor": {
-        "HorizontalAlignment": "Right"
+        "HorizontalAlignment": "Centre",
+        "VerticalAlignment": "Centre"
       },
       "children": [
         {
           "__OBJ_TYPE": "Button",
+          "children": [
+            {
+              "__OBJ_TYPE": "StaticImage",
+              "id": {
+                "value": "2254e6f6-34e1-4d73-afc5-ee43ad4bfa02"
+              },
+              "name": "Image_Info",
+              "pos": {
+                "UDim_X": {
+                  "Offect": -1012.10456562959
+                },
+                "UDim_Y": {
+                  "Offect": 44.4285603761664
+                }
+              },
+              "size": {
+                "UDim_X": {
+                  "Offect": 1040.12510633454
+                },
+                "UDim_Y": {
+                  "Offect": 516.106464087891
+                }
+              },
+              "triggers": {
+                "list": [
+                  {
+                    "actions": [
+                      {
+                        "__OBJ_TYPE": "Action_SetWindowIsShow",
+                        "components": [
+                          {
+                            "__OBJ_TYPE": "Component_Params",
+                            "params": [
+                              {
+                                "value": {
+                                  "__OBJ_TYPE": "T_Widget",
+                                  "action": "6a4dff85-fa58-49c6-98a0-27f34d3f544d"
+                                }
+                              },
+                              {
+                                "value": {
+                                  "__OBJ_TYPE": "T_Bool"
+                                }
+                              }
+                            ]
+                          }
+                        ],
+                        "id": {
+                          "value": "b175fb45-da81-4527-975c-4f18ed8eac3a"
+                        },
+                        "pos": {
+                          "x": 423,
+                          "y": 227
+                        }
+                      },
+                      {
+                        "__OBJ_TYPE": "Action_GetContextVar",
+                        "components": [
+                          {
+                            "__OBJ_TYPE": "Component_Context",
+                            "key": "instance"
+                          }
+                        ],
+                        "id": {
+                          "value": "6a4dff85-fa58-49c6-98a0-27f34d3f544d"
+                        },
+                        "pos": {
+                          "x": 884,
+                          "y": 172
+                        },
+                        "type": "T_Widget"
+                      }
+                    ],
+                    "custom_trigger_data": {
+                      "name": {
+                        "value": "ee515ca6-cbac-4808-a30b-6f8afb33cdb9"
+                      },
+                      "type": "Trigger_WidgetCreate"
+                    },
+                    "root": {
+                      "components": [
+                        {
+                          "__OBJ_TYPE": "Component_Sequence",
+                          "children": [
+                            {
+                              "action": "b175fb45-da81-4527-975c-4f18ed8eac3a"
+                            }
+                          ]
+                        }
+                      ],
+                      "id": {
+                        "value": "92e40c2c-e312-40bc-80e4-463d2f286fb9"
+                      },
+                      "pos": {
+                        "x": 95,
+                        "y": 287
+                      }
+                    },
+                    "type": "Trigger_WidgetCreate"
+                  }
+                ]
+              }
+            }
+          ],
           "HorzImageFormatting": "CentreAligned",
           "HoverImage": {
             "asset": "asset/Texture/Gui/button_green_disable.png"
@@ -19,7 +124,7 @@
             "r": 255
           },
           "id": {
-            "value": "2421674d-9176-491b-8bdd-a3f4383807b6"
+            "value": "97142cd8-e58c-4423-bedf-3dc1f30d7ed4"
           },
           "name": "Button_Info",
           "NormalImage": {
@@ -32,95 +137,205 @@
           },
           "pos": {
             "UDim_X": {
-              "Offect": 322.80890991174
+              "Offect": 1092.97380163157
             },
             "UDim_Y": {
-              "Offect": 135.27949261664
+              "Offect": 6.7080698702143
             }
           },
           "Text": "Info",
+          "text_key": {
+            "value": "asset/Info.layout.Button#a69fe110-1e94-4188-9207-289c9d07f479"
+          },
           "triggers": {
             "list": [
               {
+                "actions": [
+                  {
+                    "__OBJ_TYPE": "Action_SetWindowIsShow",
+                    "components": [
+                      {
+                        "__OBJ_TYPE": "Component_Params",
+                        "params": [
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_Widget",
+                              "action": "661348c6-40d3-44be-a093-06c27efcfdfa"
+                            }
+                          },
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_Bool",
+                              "action": "ef5778f6-f051-4468-8fba-74a35d37d896"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "id": {
+                      "value": "d1bd37f2-cb10-424e-a088-30712e7fceed"
+                    },
+                    "pos": {
+                      "x": 316,
+                      "y": 271
+                    }
+                  },
+                  {
+                    "__OBJ_TYPE": "Action_GetChildWidgetByName",
+                    "components": [
+                      {
+                        "__OBJ_TYPE": "Component_Params",
+                        "params": [
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_Widget",
+                              "action": "0d6346ef-c1cd-4a34-a112-b12bd05b1259"
+                            }
+                          },
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_String",
+                              "rawval": "Image_Info"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "id": {
+                      "value": "661348c6-40d3-44be-a093-06c27efcfdfa"
+                    },
+                    "pos": {
+                      "x": 748,
+                      "y": 176
+                    }
+                  },
+                  {
+                    "__OBJ_TYPE": "Action_GetContextVar",
+                    "components": [
+                      {
+                        "__OBJ_TYPE": "Component_Context",
+                        "key": "instance"
+                      }
+                    ],
+                    "id": {
+                      "value": "0d6346ef-c1cd-4a34-a112-b12bd05b1259"
+                    },
+                    "pos": {
+                      "x": 1154,
+                      "y": 91
+                    },
+                    "type": "T_Widget"
+                  },
+                  {
+                    "__OBJ_TYPE": "Action_SetUIVar",
+                    "components": [
+                      {
+                        "__OBJ_TYPE": "Component_Params",
+                        "params": [
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_UiVar",
+                              "rawval": "IsInfoOn"
+                            }
+                          },
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_Layout",
+                              "action": "dec99077-0119-4245-aa65-c7c2c0957889"
+                            }
+                          },
+                          {
+                            "value": {
+                              "__OBJ_TYPE": "T_Bool"
+                            }
+                          }
+                        ]
+                      }
+                    ],
+                    "id": {
+                      "value": "ef5778f6-f051-4468-8fba-74a35d37d896"
+                    },
+                    "pos": {
+                      "x": 702,
+                      "y": 430
+                    }
+                  },
+                  {
+                    "__OBJ_TYPE": "Action_GetContextVar",
+                    "components": [
+                      {
+                        "__OBJ_TYPE": "Component_Context",
+                        "key": "rootInstance"
+                      }
+                    ],
+                    "id": {
+                      "value": "dec99077-0119-4245-aa65-c7c2c0957889"
+                    },
+                    "pos": {
+                      "x": 1075,
+                      "y": 441
+                    },
+                    "type": "T_Layout"
+                  }
+                ],
                 "custom_trigger_data": {
                   "name": {
-                    "value": "60bbf819-098d-4cd0-a6c9-85078578b656"
+                    "value": "c2bcee7d-2a14-44fc-bd9b-75951a76f194"
                   },
-                  "type": "Trigger_WidgetClicked"
+                  "type": "Trigger_WidgetButtonPress"
                 },
                 "root": {
                   "components": [
                     {
                       "__OBJ_TYPE": "Component_Sequence",
                       "children": [
-                        []
+                        {
+                          "action": "d1bd37f2-cb10-424e-a088-30712e7fceed"
+                        }
                       ]
                     }
                   ],
                   "id": {
-                    "value": "62ab5264-402e-4596-a720-2d2a9da72966"
+                    "value": "3da8e45a-2c2b-4fa3-a2eb-f97d52bf3610"
                   },
                   "pos": {
-                    "x": 135,
-                    "y": 267
+                    "x": 64,
+                    "y": 324
                   }
                 },
-                "type": "Trigger_WidgetClicked"
+                "type": "Trigger_WidgetButtonPress"
               }
             ]
           }
-        },
-        {
-          "__OBJ_TYPE": "Button",
-          "HoverImage": {
-            "asset": "asset/Texture/Gui/button_green_disable.png"
-          },
-          "HoverTextColour": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          },
-          "id": {
-            "value": "91e7e979-fa19-4b42-87a2-6ff1f72304b5"
-          },
-          "name": "Button_Credits",
-          "NormalImage": {
-            "asset": "asset/Texture/Gui/button_green_disable.png"
-          },
-          "NormalTextColour": {
-            "b": 255,
-            "g": 255,
-            "r": 255
-          },
-          "pos": {
-            "UDim_X": {
-              "Offect": 322.80878269675
-            },
-            "UDim_Y": {
-              "Offect": 182.23601484299
-            }
-          },
-          "Text": "Credits"
         }
       ],
       "id": {
-        "value": "05915ac5-0f6e-442a-855d-2c7157d21ea3"
+        "value": "7cb08e95-af3c-46c9-a367-167a8ffc6883"
+      },
+      "pos": {
+        "UDim_X": {
+          "Offect": 13.4136896133707
+        },
+        "UDim_Y": {
+          "Offect": -5.36441569987112e-06
+        }
       },
       "size": {
         "UDim_X": {
-          "Offect": 429.06282746793
+          "Offect": 1199.16507355478
         },
         "UDim_Y": {
-          "Offect": 321.24223613739
+          "Offect": 590.242307439461
         }
-      }
+      },
+      "WindowTouchThroughMode": "MousePassThroughOpen"
     }
   },
   "meta": {
     "EXPORT": {
-      "layout": "fa2b0858c099c9c8166fe04c04a4d106",
-      "triggers.bts": "3ea907cb8b96c2225a098616329db690"
+      "layout": "f1937ec3be2c437ae26f4846383a8b5b",
+      "triggers.bts": "40a960997c2d02a2312458bff0c3dad1"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

@@ -1,0 +1,20 @@
+PART_TOUCH_ENTITY_BEGIN {
+	MoveAllPlayers(
+		entity = $obj2,
+		region = {
+			map = "",
+			max = {
+				__OBJ_TYPE = "Vector3i",
+				x = -14,
+				y = 122,
+				z = -35
+			},
+			min = {
+				__OBJ_TYPE = "Vector3i",
+				x = -14,
+				y = 122,
+				z = -35
+			}
+		}
+	)
+}

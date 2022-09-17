@@ -1,0 +1,7 @@
+PART_TOUCH_ENTITY_BEGIN {
+	AddEntityBuff(cfg = "myplugin/1d3a160d-7d16-4041-93e2-24da0bd3b8d4", entity = $obj2)
+}
+
+PART_TOUCH_ENTITY_END {
+	RemoveBuffByFullName(buff = "myplugin/1d3a160d-7d16-4041-93e2-24da0bd3b8d4", entity = $obj2, toTeam = false)
+}

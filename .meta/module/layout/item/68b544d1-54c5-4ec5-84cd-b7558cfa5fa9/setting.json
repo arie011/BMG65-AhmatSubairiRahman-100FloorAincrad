@@ -16,14 +16,13 @@
           },
           "ClippedByParent": true,
           "id": {
-            "value": "414e3f67-81c3-43ce-a904-384f7d9a7f1a"
+            "value": "a27c4120-c939-4f66-866f-e7ebca38c470"
           },
           "Image": {
             "asset": "asset/Texture/Gui/imagesets/bottom_bar.imageset",
             "imageset_key": "bar_bg",
             "selector": "asset/Texture/Gui/imagesets/bottom_bar.imageset"
           },
-          "lock": true,
           "name": "BG",
           "size": {
             "UDim_X": {
@@ -43,14 +42,13 @@
             "VerticalAlignment": "Bottom"
           },
           "id": {
-            "value": "08586d08-8cda-4a3f-8398-fc159d3ad7d5"
+            "value": "6e650c2d-d211-449b-8826-ff50cb493c28"
           },
           "Image": {
             "asset": "asset/Texture/Gui/imagesets/bottom_bar.imageset",
             "imageset_key": "bar_bag",
             "selector": "asset/Texture/Gui/imagesets/bottom_bar.imageset"
           },
-          "lock": true,
           "name": "OpenBagItem",
           "pos": {
             "UDim_X": {
@@ -75,9 +73,8 @@
             "VerticalAlignment": "Bottom"
           },
           "id": {
-            "value": "72a20428-0a98-465e-82dc-d6466bc7524c"
+            "value": "540ca88c-e066-43ef-9fd4-7a3329f0728e"
           },
-          "lock": true,
           "name": "ItemCellBase",
           "pos": {
             "UDim_X": {
@@ -100,9 +97,8 @@
       ],
       "ClippedByParent": true,
       "id": {
-        "value": "fceb62e8-4ab2-46d1-8b6f-1dd37b75080b"
+        "value": "61b34f84-b5da-49f7-81e9-2034b14e2d09"
       },
-      "lock": true,
       "size": {
         "UDim_X": {
           "Offect": 746
@@ -115,9 +111,8 @@
   },
   "meta": {
     "EXPORT": {
-      "layout": "40dfca7d25a197df11341b90bd27a519",
-      "triggers.bts": "d1fd7037f4941cd1b8cbfb94bb926990"
+      "layout": "40dfca7d25a197df11341b90bd27a519"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

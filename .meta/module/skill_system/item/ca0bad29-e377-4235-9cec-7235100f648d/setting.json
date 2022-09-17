@@ -4,9 +4,6 @@
       "castAction": "attack1"
     },
     "castEffect": {
-      "effect": {
-        "asset": "asset/Actor/Gavel Green Dwarf/g2021_pet_gebuling2.effect"
-      },
       "selfOnly": true
     },
     "cdTime": {
@@ -19,9 +16,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "2f68df031e475dc9eb93cbee2e74a24b",
+      "setting.json": "3bdfa52e9e590529b09d6ad6e80595ff",
       "triggers.bts": ""
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

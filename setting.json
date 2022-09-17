@@ -1,6 +1,7 @@
 {
   "automatch": false,
   "bagCap": 9,
+  "batchType": "Dynamic",
   "cameraCfg": {
     "canSwitchView": true,
     "defaultPitch": 0,
@@ -19,9 +20,9 @@
         "lockSlideScreen": false,
         "offset": {
           "__OBJ_TYPE": "Vector3",
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0,
+          "y": 0,
+          "z": 0
         },
         "viewFovAngle": 75
       },
@@ -32,9 +33,9 @@
         "lockSlideScreen": false,
         "offset": {
           "__OBJ_TYPE": "Vector3",
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0,
+          "y": 0,
+          "z": 0
         },
         "viewFovAngle": 75
       },
@@ -46,9 +47,9 @@
         "lockSlideScreen": false,
         "offset": {
           "__OBJ_TYPE": "Vector3",
-          "x": 0.0,
-          "y": 0.0,
-          "z": 0.0
+          "x": 0,
+          "y": 0,
+          "z": 0
         },
         "viewFovAngle": 75
       },
@@ -67,13 +68,17 @@
       }
     ]
   },
-  "canJoinMidway": false,
+  "canJoinMidway": true,
+  "collisionMatrix": [
+    "1"
+  ],
   "defaultMap": "map001",
   "defaultQualityLevel": 2,
   "dragControlConfig": {
     "useDragControl": true
   },
   "editorFovAngle": 65,
+  "enableBakeLight": true,
   "enableNewLighting": false,
   "engineDefUIEnable": {
     "actionControl": true,
@@ -85,14 +90,16 @@
     "toolbar": true
   },
   "forcePickBlock": true,
+  "glesMinorVersion": 0,
+  "glesVersion": 3,
   "hideCloud": false,
-  "hideTeamStatusBar": false,
+  "hideTeamStatusBar": true,
   "ignoreEmptyStartPos": false,
   "initPos": {
     "map": "map001",
-    "x": -31.842323303223,
-    "y": 2.0398996257782,
-    "z": -34.968250274658
+    "x": -31.842,
+    "y": 2.04,
+    "z": -34.968
   },
   "isTimeStopped": true,
   "jumpControlConfig": {
@@ -122,16 +129,18 @@
     },
     "useGroup": "_imagesets_"
   },
-  "maxPlayers": 6,
+  "maxPlayers": 5,
+  "meshPartStaticMergeRender": true,
   "minPlayers": 1,
   "moveStateConfig": {
     "isShow": false
   },
-  "needSave": false,
+  "needSave": true,
   "noLoadHp": true,
   "notReadUserSettingCfgAtEditor": true,
-  "nowTime": 1666.6666666667,
-  "oneDayTime": 600.0,
+  "nowTime": 1683.33333333333,
+  "oneDayTime": 600,
+  "partGameStaticBatch": true,
   "personalSettingUI": {
     "controlMode": true,
     "guiSize": false,
@@ -174,6 +183,7 @@
   },
   "replay": false,
   "reportTime": 1200,
+  "screenSpaceCull": false,
   "skillJack": {
     "AJackArea": [
       [
@@ -227,9 +237,9 @@
   "startPos": [
     {
       "map": "map001",
-      "x": -26.650447845459,
-      "y": 132.61879638672,
-      "z": -34.830253601074
+      "x": -9.61603450775146,
+      "y": 1.9549067401886,
+      "z": -34.7968711853027
     }
   ],
   "team": [],
@@ -280,6 +290,8 @@
       "name": "shop"
     }
   ],
+  "useHalfImageSize": true,
+  "useNewCollisionFiltering": true,
   "useNewFirstViewer": true,
   "useNewQuadConfig": true,
   "useNewUI": true,
@@ -386,7 +398,7 @@
           {
             "__OBJ_TYPE": "Vector3",
             "x": -18,
-            "y": 68,
+            "y": 64,
             "z": -34
           },
           {
@@ -404,8 +416,8 @@
           {
             "__OBJ_TYPE": "Vector3",
             "x": -48,
-            "y": 70,
-            "z": -18
+            "y": 68,
+            "z": -68
           },
           {
             "__OBJ_TYPE": "Vector3",
@@ -440,7 +452,7 @@
           {
             "__OBJ_TYPE": "Vector3",
             "x": -7,
-            "y": 67,
+            "y": 87,
             "z": -24
           },
           {
@@ -452,8 +464,8 @@
           {
             "__OBJ_TYPE": "Vector3",
             "x": -48,
-            "y": 0,
-            "z": 0
+            "y": 96,
+            "z": -56
           },
           {
             "__OBJ_TYPE": "Vector3",
@@ -489,7 +501,7 @@
             "__OBJ_TYPE": "Vector3",
             "x": -19,
             "y": 111,
-            "z": -36
+            "z": -20
           },
           {
             "__OBJ_TYPE": "Vector3",
@@ -507,7 +519,7 @@
             "__OBJ_TYPE": "Vector3",
             "x": -25,
             "y": 121,
-            "z": -42
+            "z": -54
           },
           {
             "__OBJ_TYPE": "Vector3",
@@ -518,7 +530,7 @@
           {
             "__OBJ_TYPE": "Vector3",
             "x": -14,
-            "y": 118,
+            "y": 121,
             "z": -16
           },
           {
@@ -538,14 +550,110 @@
             "x": -19,
             "y": 125,
             "z": -44
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -27,
+            "y": 137,
+            "z": -54
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -47,
+            "y": 137,
+            "z": -59
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -47,
+            "y": 139,
+            "z": -39
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -32,
+            "y": 140,
+            "z": -20
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -18,
+            "y": 142,
+            "z": -46
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -48,
+            "y": 144,
+            "z": -40
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -18,
+            "y": 147,
+            "z": -18
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -18,
+            "y": 154,
+            "z": -50
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -44,
+            "y": 157,
+            "z": -55
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": -16,
+            "y": 157,
+            "z": -34
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": 5,
+            "y": 176,
+            "z": -12
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": 34,
+            "y": 178,
+            "z": -12
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": 37,
+            "y": 178,
+            "z": -50
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": 6,
+            "y": 180,
+            "z": -50
+          },
+          {
+            "__OBJ_TYPE": "Vector3",
+            "x": 6,
+            "y": 182,
+            "z": -18
           }
         ]
       }
     ],
-    "ui": []
+    "ui": [
+      {
+        "key": "IsInfoOn",
+        "run_type": "client",
+        "save": false
+      }
+    ]
   },
   "waitAtInitPos": true,
-  "waitGoTime": 0,
+  "waitGoTime": 20,
   "waitPlayerTime": 0,
   "waitStartTime": 0
 }

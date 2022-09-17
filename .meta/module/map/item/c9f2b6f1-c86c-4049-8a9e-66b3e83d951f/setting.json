@@ -12,6 +12,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_Light",
+        "batchType": "Dynamic",
         "id": "8782816339157794817",
         "ID": 3,
         "lightType": "GlobalLight",
@@ -19,6 +20,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_Light",
+        "batchType": "Dynamic",
         "id": "8782816339419660289",
         "ID": 4,
         "lightType": "DirectionalLight",
@@ -32,6 +34,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_RegionPart",
+        "batchType": "Dynamic",
         "cfgName": "myplugin/5256d1ef-a674-4a29-ae7b-729eb69012ff",
         "id": "8784085061816811521",
         "position": {
@@ -52,9 +55,11 @@
       },
       {
         "__OBJ_TYPE": "Instance_Model",
+        "batchType": "Dynamic",
         "children": [
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ad85a750-0981-4770-8c86-f618ad29f3b3",
             "density": 2.2,
             "friction": 0.37,
@@ -89,6 +94,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "a2add767-cc1a-4afe-b532-de9cb28a5062",
             "density": 2.2,
             "friction": 0.37,
@@ -130,6 +136,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "899babea-1c27-4ab1-9d7a-b586a3454586",
             "density": 2.2,
             "friction": 0.37,
@@ -171,6 +178,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "121a1832-6475-4ee3-95a7-43279d96d856",
             "density": 2.2,
             "friction": 0.37,
@@ -212,6 +220,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f3d1a391-6a5f-4c99-afa6-d620f2663405",
             "density": 2.2,
             "friction": 0.37,
@@ -255,6 +264,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "504366a6-526e-4b71-b028-9dcc4f781b49",
             "density": 2.2,
             "friction": 0.37,
@@ -296,6 +306,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ae90a376-9e93-4812-b9e9-8b7ae4d5753b",
             "density": 2.2,
             "friction": 0.37,
@@ -337,6 +348,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "be001c2c-8dbb-43bf-95ff-3a405ce1c7de",
             "density": 2.2,
             "friction": 0.37,
@@ -378,6 +390,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "9b996323-c2b1-414a-b621-7146c577bd6a",
             "density": 2.2,
             "friction": 0.37,
@@ -419,6 +432,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "c592e585-4adb-45bc-8a19-abd4fb6346aa",
             "density": 2.2,
             "friction": 0.37,
@@ -460,6 +474,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f6daee49-2413-4daa-9f69-ba3a8c56dc31",
             "density": 2.2,
             "friction": 0.37,
@@ -501,6 +516,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "121723b6-38c0-4398-b816-c1d60092e0e5",
             "density": 2.2,
             "friction": 0.37,
@@ -542,6 +558,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "9a71690f-1dca-4da5-ba17-30f898a32d98",
             "density": 2.2,
             "friction": 0.37,
@@ -583,6 +600,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "b603994a-9fa5-4e7d-9e71-bedde92aae20",
             "density": 2.2,
             "friction": 0.37,
@@ -624,6 +642,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "9cda7262-0a9f-4ec0-a364-391ba75f1133",
             "density": 2.2,
             "friction": 0.37,
@@ -665,6 +684,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "624ea935-17a5-4645-881b-1590ce8785ed",
             "density": 2.2,
             "friction": 0.37,
@@ -706,6 +726,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "87df5885-78e4-45ff-b8ef-71b496e6827a",
             "density": 2.2,
             "friction": 0.37,
@@ -747,6 +768,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "2a528c13-bb36-4a27-95da-faadcc13d169",
             "density": 2.2,
             "friction": 0.37,
@@ -788,10 +810,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "8163cc44-28e6-4294-8d96-8985281385fc",
-            "children": [
+            "collisionUniqueKey": "8784098510879703041",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "05185e49-098b-4fca-9d02-2e1563dbb19c",
                 "density": 2.2,
@@ -829,6 +854,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "3006cb9c-4ef4-43db-80af-93b994e1e1c9",
                 "density": 2.2,
                 "friction": 0.37,
@@ -856,7 +882,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510879703041",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510879703041",
@@ -897,6 +922,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "9ffb97b9-43d9-420d-a30b-2e55d8056cbf",
             "density": 2.2,
             "friction": 0.37,
@@ -938,10 +964,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "8af96f52-1c6a-4124-806d-942e699daf52",
-            "children": [
+            "collisionUniqueKey": "8784098510895120385",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "82f76a71-8af9-4467-a883-b93ed93daf32",
                 "density": 2.2,
@@ -979,6 +1008,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "8f993894-986f-4947-a8aa-8e7c13fe202a",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1006,7 +1036,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510895120385",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510895120385",
@@ -1047,6 +1076,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "87202954-688c-4d2f-917c-f0909bc1b2a8",
             "density": 2.2,
             "friction": 0.37,
@@ -1088,10 +1118,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "18544c96-0ef3-4b3c-bc1a-9b61b5774dfa",
-            "children": [
+            "collisionUniqueKey": "8784098510911668225",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "11da5aca-e5dd-4d57-9918-3ea5414892ca",
                 "density": 2.2,
@@ -1129,6 +1162,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "99b53d06-33ed-4522-bdb4-14a5290a69f9",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1156,7 +1190,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510911668225",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510911668225",
@@ -1197,10 +1230,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "2cf243fc-fe2f-40dc-8297-fc532df4fba5",
-            "children": [
+            "collisionUniqueKey": "8784098510923579393",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "a3eb10f7-ee72-4dc5-bb8c-ba5994671964",
                 "density": 2.2,
@@ -1238,6 +1274,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "78dfc710-2d37-45a4-ab74-0a3e1d9ba1f0",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1265,7 +1302,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510923579393",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510923579393",
@@ -1306,10 +1342,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "48fbf64d-7065-4b42-8f2c-d1ee427959da",
-            "children": [
+            "collisionUniqueKey": "8784098510937505793",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "36418be2-9387-4c1f-813f-3079a72d125f",
                 "density": 2.2,
@@ -1347,6 +1386,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "d2ca7a6d-03b9-40cd-ac42-330bb361f9eb",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1374,7 +1414,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510937505793",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510937505793",
@@ -1415,6 +1454,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "0d17a6b6-f23a-4bf2-98ac-2f14f375106d",
             "density": 2.2,
             "friction": 0.37,
@@ -1456,6 +1496,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "cea6ee62-86ac-40cd-9578-060a08fa2282",
             "density": 2.2,
             "friction": 0.37,
@@ -1497,6 +1538,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "cc73e035-3d71-44b3-a7a8-63caa0d0bafa",
             "density": 2.2,
             "friction": 0.37,
@@ -1538,10 +1580,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "6a63b815-c600-4481-ac67-24855018b170",
-            "children": [
+            "collisionUniqueKey": "8784098510974418945",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "3e7ba55a-d09a-4fec-8938-413afaa8e71e",
                 "density": 2.2,
@@ -1579,6 +1624,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "0f961982-00c2-49b5-bcc0-4259ae2523e3",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1606,7 +1652,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098510974418945",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098510974418945",
@@ -1647,6 +1692,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "8e25a042-23ee-4153-a593-7f6c8490c5a9",
             "density": 2.2,
             "friction": 0.37,
@@ -1688,6 +1734,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "25e9520a-660d-4d1a-a64e-de7d3fed15bd",
             "density": 2.2,
             "friction": 0.37,
@@ -1729,6 +1776,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "6d09770f-3f43-49b7-b738-6bb88c65b96b",
             "density": 2.2,
             "friction": 0.37,
@@ -1770,6 +1818,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "3a3b5025-d839-4607-af76-07315e74cae7",
             "density": 2.2,
             "friction": 0.37,
@@ -1811,10 +1860,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "86bba86c-b212-4334-991d-79b859cfb0c3",
-            "children": [
+            "collisionUniqueKey": "8784098511011577857",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 1,
                 "btsKey": "bcb26fc5-8463-417a-af91-4b1d3efe8019",
                 "density": 2.2,
@@ -1852,6 +1904,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "7fc0302e-cb6b-41a5-9d71-f301c0e29aa8",
                 "density": 2.2,
                 "friction": 0.37,
@@ -1879,7 +1932,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511011577857",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511011577857",
@@ -1920,26 +1972,37 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "43aba42a-a121-4cd9-ac3e-b7f37c4e6f84",
-            "children": [
+            "collisionUniqueKey": "8784098511032532993",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "aa6bfd66-6921-47e8-a4b8-9b404f12ffa2",
-                "children": [
+                "collisionUniqueKey": "8784098511037595649",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation",
+                    "batchType": "Dynamic",
                     "btsKey": "c60fbdd2-e931-46b0-a057-74bb71acf2fa",
-                    "children": [
+                    "collisionUniqueKey": "8784098511041085441",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation",
+                        "batchType": "Dynamic",
                         "btsKey": "3af55b8d-21fc-43e3-a8e2-4cad635984e6",
-                        "children": [
+                        "collisionUniqueKey": "8784098511043624961",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_PartOperation",
+                            "batchType": "Dynamic",
                             "btsKey": "1b10a469-eb9f-4768-9c3d-e7ad9ad2fcb6",
-                            "children": [
+                            "collisionUniqueKey": "8784098511045328897",
+                            "componentList": [
                               {
                                 "__OBJ_TYPE": "Instance_Part",
+                                "batchType": "Dynamic",
                                 "btsKey": "02b902f3-6c05-4cdd-8d1a-c1d5a0bec981",
                                 "density": 2.2,
                                 "friction": 0.37,
@@ -1976,6 +2039,7 @@
                               },
                               {
                                 "__OBJ_TYPE": "Instance_Part",
+                                "batchType": "Dynamic",
                                 "booleanOperation": 2,
                                 "btsKey": "ec16bd43-6438-401f-8732-b7889a1e761f",
                                 "density": 2.2,
@@ -2005,7 +2069,6 @@
                                 }
                               }
                             ],
-                            "collisionUniqueKey": "8784098511045328897",
                             "density": 2.2,
                             "friction": 0.37,
                             "id": "8784098511045328897",
@@ -2041,6 +2104,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "be6b61b6-5ebf-441c-b4a0-e2e22ac221b6",
                             "density": 2.2,
@@ -2069,7 +2133,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784098511043624961",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784098511043624961",
@@ -2105,6 +2168,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "f22179a1-8697-4050-88fe-95d9588700e0",
                         "density": 2.2,
@@ -2136,7 +2200,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784098511041085441",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784098511041085441",
@@ -2172,6 +2235,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "d7bd89bb-6a78-49b8-93be-4aed09cf51eb",
                     "density": 2.2,
@@ -2203,7 +2267,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784098511037595649",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511037595649",
@@ -2239,6 +2302,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "3c166080-01fb-42ec-8e65-3d3064b92742",
                 "density": 2.2,
@@ -2270,7 +2334,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511032532993",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511032532993",
@@ -2311,6 +2374,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "7eab826a-6c67-44f3-8ee6-97bc76941cf5",
             "density": 2.2,
             "friction": 0.37,
@@ -2352,6 +2416,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "588d9d96-a97e-4184-b415-688663d337ac",
             "density": 2.2,
             "friction": 0.37,
@@ -2393,26 +2458,37 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "8a5beb8a-973c-4e15-9032-bef3aacc8c6f",
-            "children": [
+            "collisionUniqueKey": "8784098511094284289",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "ffc670a1-a61c-4861-89aa-1e707d5b6589",
-                "children": [
+                "collisionUniqueKey": "8784098511102246913",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation",
+                    "batchType": "Dynamic",
                     "btsKey": "d823f41e-38c2-434c-8081-7aeb06406b09",
-                    "children": [
+                    "collisionUniqueKey": "8784098511110914049",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation",
+                        "batchType": "Dynamic",
                         "btsKey": "9838d775-a2b5-433d-abfd-248d44449681",
-                        "children": [
+                        "collisionUniqueKey": "8784098511116763137",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_PartOperation",
+                            "batchType": "Dynamic",
                             "btsKey": "62c63c1c-5e7f-43d9-9b5b-e47029de5543",
-                            "children": [
+                            "collisionUniqueKey": "8784098511119925249",
+                            "componentList": [
                               {
                                 "__OBJ_TYPE": "Instance_Part",
+                                "batchType": "Dynamic",
                                 "btsKey": "ab13470f-aa16-4b2b-9b35-4bc736c5d97b",
                                 "density": 2.2,
                                 "friction": 0.37,
@@ -2449,6 +2525,7 @@
                               },
                               {
                                 "__OBJ_TYPE": "Instance_Part",
+                                "batchType": "Dynamic",
                                 "booleanOperation": 2,
                                 "btsKey": "a40d11e9-69c0-4005-90a1-adca196964c9",
                                 "density": 2.2,
@@ -2485,7 +2562,6 @@
                                 }
                               }
                             ],
-                            "collisionUniqueKey": "8784098511119925249",
                             "density": 2.2,
                             "friction": 0.37,
                             "id": "8784098511119925249",
@@ -2521,6 +2597,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part",
+                            "batchType": "Dynamic",
                             "btsKey": "dbb7bb15-9de1-4671-b907-2b96701f1dd6",
                             "density": 2.2,
                             "friction": 0.37,
@@ -2554,6 +2631,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "18376230-621f-48b2-80d2-269315588647",
                             "density": 2.2,
@@ -2587,7 +2665,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784098511116763137",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784098511116763137",
@@ -2623,6 +2700,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part",
+                        "batchType": "Dynamic",
                         "btsKey": "e57bbd4f-31a3-4551-bcc7-66e603ec9912",
                         "density": 2.2,
                         "friction": 0.37,
@@ -2656,6 +2734,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "8ce02b37-692f-4427-b4a2-f1a440ea65a8",
                         "density": 2.2,
@@ -2689,7 +2768,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784098511110914049",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784098511110914049",
@@ -2725,6 +2803,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "416731cb-1289-45fd-bc89-c8c1ca10318d",
                     "density": 2.2,
                     "friction": 0.37,
@@ -2757,6 +2836,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "7436ed97-fc89-4d0a-92b3-f8f0175db16c",
                     "density": 2.2,
@@ -2789,7 +2869,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784098511102246913",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511102246913",
@@ -2825,6 +2904,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "f59f6642-f7d3-4c42-93e9-d0fbdb8b4365",
                 "density": 2.2,
                 "friction": 0.37,
@@ -2857,6 +2937,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "57c4e576-d449-479f-8b69-d9dd4a08c8b6",
                 "density": 2.2,
@@ -2889,7 +2970,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511094284289",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511094284289",
@@ -2930,6 +3010,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ed58426c-89ab-4079-ab9a-ad5bb4a2ea54",
             "density": 2.2,
             "friction": 0.37,
@@ -2970,6 +3051,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "86532a7d-58d9-4d69-8abf-bc5df9907b6a",
             "density": 2.2,
             "friction": 0.37,
@@ -3011,6 +3093,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "bc115c5a-66b3-4022-b4d6-232f453455be",
             "density": 2.2,
             "friction": 0.37,
@@ -3052,6 +3135,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "cea785c0-e84b-479c-82b3-2d5382451672",
             "density": 2.2,
             "friction": 0.37,
@@ -3093,6 +3177,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ba76bd76-a188-4ebd-848f-5976fea31939",
             "density": 2.2,
             "friction": 0.37,
@@ -3134,22 +3219,31 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "aa98a27d-0973-436b-ba6d-7d562873fcb0",
-            "children": [
+            "collisionUniqueKey": "8784098511210921985",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "0c887eec-ec24-4ce8-be25-fa4cf87d7b62",
-                "children": [
+                "collisionUniqueKey": "8784098511214428161",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_PartOperation",
+                    "batchType": "Dynamic",
                     "btsKey": "07f365bb-f11d-45ee-a8e5-67074365d166",
-                    "children": [
+                    "collisionUniqueKey": "8784098511217164289",
+                    "componentList": [
                       {
                         "__OBJ_TYPE": "Instance_PartOperation",
+                        "batchType": "Dynamic",
                         "btsKey": "5b835949-3868-4339-8b00-7f3f4c8c40a3",
-                        "children": [
+                        "collisionUniqueKey": "8784098511218917377",
+                        "componentList": [
                           {
                             "__OBJ_TYPE": "Instance_Part",
+                            "batchType": "Dynamic",
                             "btsKey": "ffdf70a4-2f1c-488d-a0f6-099cb23d3675",
                             "density": 2.2,
                             "friction": 0.37,
@@ -3186,6 +3280,7 @@
                           },
                           {
                             "__OBJ_TYPE": "Instance_Part",
+                            "batchType": "Dynamic",
                             "booleanOperation": 2,
                             "btsKey": "091af2e4-0b50-4e95-90bc-a0e0f844ece8",
                             "density": 2.2,
@@ -3214,7 +3309,6 @@
                             }
                           }
                         ],
-                        "collisionUniqueKey": "8784098511218917377",
                         "density": 2.2,
                         "friction": 0.37,
                         "id": "8784098511218917377",
@@ -3251,6 +3345,7 @@
                       },
                       {
                         "__OBJ_TYPE": "Instance_Part",
+                        "batchType": "Dynamic",
                         "booleanOperation": 2,
                         "btsKey": "ac827d87-f042-4836-a608-eb046121fab4",
                         "density": 2.2,
@@ -3279,7 +3374,6 @@
                         }
                       }
                     ],
-                    "collisionUniqueKey": "8784098511217164289",
                     "density": 2.2,
                     "friction": 0.37,
                     "id": "8784098511217164289",
@@ -3316,6 +3410,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "8aa354e2-243a-4cc6-951a-f6f4b026e20b",
                     "density": 2.2,
@@ -3344,7 +3439,6 @@
                     }
                   }
                 ],
-                "collisionUniqueKey": "8784098511214428161",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511214428161",
@@ -3381,6 +3475,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "4ab7dd78-1c37-4b43-823c-8816e83f0d88",
                 "density": 2.2,
@@ -3409,7 +3504,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511210921985",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511210921985",
@@ -3450,6 +3544,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "d3bcef72-35bc-40a8-83e6-e28fc1974c4a",
             "density": 2.2,
             "friction": 0.37,
@@ -3493,6 +3588,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "e83cae7e-9b9f-422c-bc32-3b7d2039d239",
             "density": 2.2,
             "friction": 0.37,
@@ -3536,6 +3632,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f3691b8d-b8de-4a4c-891c-b407a3b7e2f6",
             "density": 2.2,
             "friction": 0.37,
@@ -3579,6 +3676,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "804365d6-880c-42b7-a634-cdef3440c2f2",
             "density": 2.2,
             "friction": 0.37,
@@ -3622,6 +3720,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "123c3985-8a3c-4670-9a7d-33de48638147",
             "density": 2.2,
             "friction": 0.37,
@@ -3665,6 +3764,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "2fd43153-6307-46bf-95ff-9a3e226fab11",
             "density": 2.2,
             "friction": 0.37,
@@ -3708,10 +3808,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "116e827d-a5f3-4d05-aab4-b062af27275a",
-            "children": [
+            "collisionUniqueKey": "8784098511266611201",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "38464cf1-a94f-4653-aef4-2eb00e64ccee",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3750,6 +3853,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "3464b259-2229-49d9-be4f-a01d9ac8faf9",
                 "density": 2.2,
@@ -3788,7 +3892,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511266611201",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511266611201",
@@ -3829,10 +3932,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "0b82620e-5d17-4b69-af04-24490b02c48f",
-            "children": [
+            "collisionUniqueKey": "8784098511277834241",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "9344efc4-28d1-4738-80ce-373953c4586d",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3871,6 +3977,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "fc5531b4-c3b9-4655-8794-523465949400",
                 "density": 2.2,
@@ -3909,7 +4016,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511277834241",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511277834241",
@@ -3950,10 +4056,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "c79271b7-f38e-479d-83ab-fbaac50ed50a",
-            "children": [
+            "collisionUniqueKey": "8784098511287631873",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "28d54d1f-e53b-4ada-adaf-c20e54426d1c",
                 "density": 2.2,
                 "friction": 0.37,
@@ -3992,6 +4101,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "4495d293-c757-41fd-a559-9135d6d869c2",
                 "density": 2.2,
@@ -4030,7 +4140,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511287631873",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511287631873",
@@ -4071,10 +4180,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "28838468-659c-4e89-88b2-b12a0fff5ac2",
-            "children": [
+            "collisionUniqueKey": "8784098511313502209",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "1a6473b7-fe36-4cbe-832b-9523a94414ba",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4113,6 +4225,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "ff75844b-f007-411a-9944-2e5a6c3503fe",
                 "density": 2.2,
@@ -4151,7 +4264,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511313502209",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511313502209",
@@ -4192,10 +4304,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "689dd281-5791-4811-8fde-022aaeed443c",
-            "children": [
+            "collisionUniqueKey": "8784098511325315073",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "01a96eb9-c886-4f26-87e9-2b79ef10b849",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4234,6 +4349,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "7908033d-f718-402a-9e4e-3c172dbe8061",
                 "density": 2.2,
@@ -4272,7 +4388,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511325315073",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511325315073",
@@ -4313,10 +4428,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "1446be70-bdc3-46cb-83b5-c58aa4b5011a",
-            "children": [
+            "collisionUniqueKey": "8784098511346778113",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "5b809dd9-5f2a-46a3-84a4-c1c768f4963f",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4355,6 +4473,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "959cef29-70de-4873-97c6-ac2a326438dc",
                 "density": 2.2,
@@ -4393,7 +4512,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511346778113",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511346778113",
@@ -4434,10 +4552,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "d2176cd6-1700-4c5d-8698-01a35f04fbc2",
-            "children": [
+            "collisionUniqueKey": "8784098511359836161",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "85573549-7f1f-4262-8c31-557c481738c8",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4476,6 +4597,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "c50df8ba-91bd-4c02-806e-d713c8f1c822",
                 "density": 2.2,
@@ -4514,7 +4636,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511359836161",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511359836161",
@@ -4555,10 +4676,13 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "e6e591ef-8261-413d-a994-b6f712e49881",
-            "children": [
+            "collisionUniqueKey": "8784098511371829249",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "btsKey": "01c037d3-45f2-40d5-9ffa-856b9121e153",
                 "density": 2.2,
                 "friction": 0.37,
@@ -4597,6 +4721,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "b75c3240-29e7-4b7a-b06a-4f41dc3a425d",
                 "density": 2.2,
@@ -4635,7 +4760,6 @@
                 }
               }
             ],
-            "collisionUniqueKey": "8784098511371829249",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511371829249",
@@ -4676,6 +4800,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "68ec914e-ba8e-4c4d-9894-70b623c36b84",
             "density": 2.2,
             "friction": 0.37,
@@ -4719,6 +4844,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "eb1c86cd-93a9-438e-8edc-632a2817c904",
             "density": 5.5,
             "friction": 0.56,
@@ -4756,6 +4882,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ddf53436-97fa-4c8a-b2c0-9ec4ab9d6167",
             "density": 2.2,
             "friction": 0.37,
@@ -4796,14 +4923,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "35e5da1c-ce46-48f9-be38-4f10bea22e64",
-            "children": [
+            "collisionUniqueKey": "8784098511390474241",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "286fca59-0936-4132-bd38-fc3db5624717",
-                "children": [
+                "collisionUniqueKey": "8784098511392030721",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "8f397efc-17b5-4364-ad7a-79ca4867b2c5",
                     "density": 2.2,
                     "friction": 0.37,
@@ -4833,6 +4965,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "3a2efb61-4b00-45c9-b043-4a8cfc579d26",
                     "density": 2.2,
@@ -4865,7 +4998,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511392030721",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511392030721",
@@ -4895,6 +5027,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "0e68e8f3-8487-4006-8f71-c4562579cfe0",
                 "density": 2.2,
@@ -4927,7 +5060,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511390474241",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511390474241",
@@ -4968,6 +5100,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f49ce619-f8cc-442f-84b2-5339500d165a",
             "density": 2.2,
             "friction": 0.37,
@@ -5002,6 +5135,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "286f1000-8bd0-41ad-914b-fed8178bd575",
             "density": 2.2,
             "friction": 0.37,
@@ -5036,6 +5170,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f8fe36e9-2857-41da-b0b7-545e7fdcd13d",
             "density": 5.5,
             "friction": 0.56,
@@ -5073,14 +5208,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "41eeaf06-8be4-487f-96bf-e2d7cc462e96",
-            "children": [
+            "collisionUniqueKey": "8784098511421210625",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "bd0f3548-7342-496f-83f8-e8dfaf0d6d2f",
-                "children": [
+                "collisionUniqueKey": "8784098511422881793",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "7c99ced5-9f46-4e82-838e-ad98cce72643",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5110,6 +5250,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "0e1586e5-0089-4d39-ad7c-6936a94a19fd",
                     "density": 2.2,
@@ -5142,7 +5283,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511422881793",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511422881793",
@@ -5172,6 +5312,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "0daef576-822d-4df7-835a-f4195513aca9",
                 "density": 2.2,
@@ -5204,7 +5345,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511421210625",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511421210625",
@@ -5245,6 +5385,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ba8ecb76-f599-4e23-a77b-fbe3bd448528",
             "density": 2.2,
             "friction": 0.37,
@@ -5285,6 +5426,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f679f11e-4d9e-404e-903d-f2555828baba",
             "density": 5.5,
             "friction": 0.56,
@@ -5322,6 +5464,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "d4d4074f-86a1-4cb7-8616-83f18b1f93a8",
             "density": 2.2,
             "friction": 0.37,
@@ -5362,14 +5505,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "3de28a9e-f6ee-4705-a2a7-a7af6caf9dbd",
-            "children": [
+            "collisionUniqueKey": "8784098511446917121",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "6dad6304-8264-4ed1-a8a3-a5e41b18f840",
-                "children": [
+                "collisionUniqueKey": "8784098511448588289",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "e0697b6f-edf0-4b9e-9cc6-4d467634fe72",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5399,6 +5547,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "9db8680d-53a4-4808-a823-00f08125e8f1",
                     "density": 2.2,
@@ -5431,7 +5580,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511448588289",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511448588289",
@@ -5461,6 +5609,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "177b0225-4c17-46d5-aad4-360e64a6e41e",
                 "density": 2.2,
@@ -5493,7 +5642,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511446917121",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511446917121",
@@ -5534,6 +5682,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ef3c7c77-0b11-4af0-8853-4a6f5159eaee",
             "density": 2.2,
             "friction": 0.37,
@@ -5568,6 +5717,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ee89cc9d-b747-481e-aa86-e8b2a0ddacbf",
             "density": 5.5,
             "friction": 0.56,
@@ -5605,6 +5755,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "73df364e-b894-4c37-b3ad-6c180f2727a6",
             "density": 2.2,
             "friction": 0.37,
@@ -5645,14 +5796,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "955207cf-68e0-4dba-a8d1-8895c222a3e4",
-            "children": [
+            "collisionUniqueKey": "8784098511473360897",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "c817c78f-6bf8-4ae4-902b-f3538d9b2501",
-                "children": [
+                "collisionUniqueKey": "8784098511475064833",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "98f6b995-3d71-40da-b44d-5ee2f20719e2",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5682,6 +5838,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "8bbf5302-b03a-4581-91a4-027377c204e5",
                     "density": 2.2,
@@ -5714,7 +5871,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511475064833",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511475064833",
@@ -5744,6 +5900,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "40b67145-0669-4d20-bdd3-c2c363d202d2",
                 "density": 2.2,
@@ -5776,7 +5933,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511473360897",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511473360897",
@@ -5817,6 +5973,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "f0f574fd-9dc4-4b47-b1c7-9a3f60c0d0b9",
             "density": 2.2,
             "friction": 0.37,
@@ -5851,14 +6008,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "93ad4ff2-342f-4aa5-8c96-e5eda2504fd0",
-            "children": [
+            "collisionUniqueKey": "8784098511493595137",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "a5233f7d-ed99-4c70-baad-bacf74747f7d",
-                "children": [
+                "collisionUniqueKey": "8784098511495249921",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "f4a03ef6-772d-4752-a4a3-5c001f96b31f",
                     "density": 2.2,
                     "friction": 0.37,
@@ -5888,6 +6050,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "979cf908-ce13-4358-911b-f25146bf75c8",
                     "density": 2.2,
@@ -5920,7 +6083,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511495249921",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511495249921",
@@ -5950,6 +6112,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "a0cabb47-5d8f-4bf2-b204-869ae874fde0",
                 "density": 2.2,
@@ -5982,7 +6145,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511493595137",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511493595137",
@@ -6023,6 +6185,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ef9aeb89-b8fa-47cd-b009-1eab876798f0",
             "density": 2.2,
             "friction": 0.37,
@@ -6063,14 +6226,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "c7ec5ef1-dbc9-4131-84f5-50e5975cb7c9",
-            "children": [
+            "collisionUniqueKey": "8784098511519924225",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "1a5624e7-2372-455c-9517-4ef5287d2aa2",
-                "children": [
+                "collisionUniqueKey": "8784098511522627585",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "278a5e0c-d11e-4006-b5e2-c2168eb93601",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6100,6 +6268,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "bae883ca-d678-4cee-bce5-1c589d1849a3",
                     "density": 2.2,
@@ -6132,7 +6301,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511522627585",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511522627585",
@@ -6162,6 +6330,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "1206604e-ff71-415c-9ab1-6b1c649131b1",
                 "density": 2.2,
@@ -6194,7 +6363,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511519924225",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511519924225",
@@ -6235,6 +6403,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "cc799b6c-48ca-44e6-9891-167907bb6f3c",
             "density": 5.5,
             "friction": 0.56,
@@ -6272,6 +6441,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "ceed877b-fa24-4f71-bc79-44bc5cc39c09",
             "density": 5.5,
             "friction": 0.56,
@@ -6309,6 +6479,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "c0e573be-1da0-4a65-9dce-691c5e04cd7b",
             "density": 2.2,
             "friction": 0.37,
@@ -6343,6 +6514,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "04db033b-eaf2-4b96-b302-490c2d00b670",
             "density": 2.2,
             "friction": 0.37,
@@ -6377,6 +6549,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "0355a94c-0f80-440f-acf3-5a41ec6f3deb",
             "density": 2.2,
             "friction": 0.37,
@@ -6417,6 +6590,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "624ee529-0cc0-43e7-b60d-28a700a42b1a",
             "density": 2.2,
             "friction": 0.37,
@@ -6457,6 +6631,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "3bf99cbf-2b0b-41d1-b0b8-086e9a94d619",
             "density": 2.2,
             "friction": 0.37,
@@ -6491,6 +6666,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "a9d8ec52-28f1-4d28-baa6-b980a27e63da",
             "density": 5.5,
             "friction": 0.56,
@@ -6528,14 +6704,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "139e829b-09c5-4006-b1f6-8618feb6a1d3",
-            "children": [
+            "collisionUniqueKey": "8784098511561785345",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "d0bb162d-911c-4eee-8be0-218e1a5fab13",
-                "children": [
+                "collisionUniqueKey": "8784098511563489281",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "4ef25900-993c-4b44-baed-74a5321e00ac",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6565,6 +6746,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "97ea772e-c5d9-4a64-bd7f-532a54b0a059",
                     "density": 2.2,
@@ -6597,7 +6779,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511563489281",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511563489281",
@@ -6627,6 +6808,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "6525afbf-5366-42bc-a70a-cebc04cc2a20",
                 "density": 2.2,
@@ -6659,7 +6841,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511561785345",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511561785345",
@@ -6700,6 +6881,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "024556dd-159b-4ad8-ba36-889e29d1b85b",
             "density": 5.5,
             "friction": 0.56,
@@ -6737,6 +6919,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "11afda63-b963-48f7-a914-e0cf121d9d9b",
             "density": 2.2,
             "friction": 0.37,
@@ -6771,6 +6954,7 @@
           },
           {
             "__OBJ_TYPE": "Instance_Part",
+            "batchType": "Dynamic",
             "btsKey": "9281364f-c59c-4a52-aa3d-bdbca8e4ad5b",
             "density": 2.2,
             "friction": 0.37,
@@ -6811,14 +6995,19 @@
           },
           {
             "__OBJ_TYPE": "Instance_PartOperation",
+            "batchType": "Dynamic",
             "btsKey": "3ff3b6dc-1922-45e4-85b5-5b6266e65ec3",
-            "children": [
+            "collisionUniqueKey": "8784098511593799681",
+            "componentList": [
               {
                 "__OBJ_TYPE": "Instance_PartOperation",
+                "batchType": "Dynamic",
                 "btsKey": "217261bb-81ea-4f83-9da2-8da21227c152",
-                "children": [
+                "collisionUniqueKey": "8784098511595470849",
+                "componentList": [
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "btsKey": "6e6bf7cb-48f7-4b20-9a2c-756bb4eeb533",
                     "density": 2.2,
                     "friction": 0.37,
@@ -6848,6 +7037,7 @@
                   },
                   {
                     "__OBJ_TYPE": "Instance_Part",
+                    "batchType": "Dynamic",
                     "booleanOperation": 2,
                     "btsKey": "f9c5f202-bfdd-4a7b-ba18-b3af293c3f61",
                     "density": 2.2,
@@ -6880,7 +7070,6 @@
                     "useAnchor": true
                   }
                 ],
-                "collisionUniqueKey": "8784098511595470849",
                 "density": 2.2,
                 "friction": 0.37,
                 "id": "8784098511595470849",
@@ -6910,6 +7099,7 @@
               },
               {
                 "__OBJ_TYPE": "Instance_Part",
+                "batchType": "Dynamic",
                 "booleanOperation": 2,
                 "btsKey": "82a484c6-2f24-4c62-a45c-e26dad5f5e49",
                 "density": 2.2,
@@ -6942,7 +7132,6 @@
                 "useAnchor": true
               }
             ],
-            "collisionUniqueKey": "8784098511593799681",
             "density": 2.2,
             "friction": 0.37,
             "id": "8784098511593799681",
@@ -7006,6 +7195,7 @@
       },
       {
         "__OBJ_TYPE": "Instance_Part",
+        "batchType": "Dynamic",
         "btsKey": "48c749db-7e93-45b6-be4c-db2aa377ab8d",
         "density": 2.7,
         "friction": 0.61,
@@ -7039,9 +7229,8 @@
   },
   "meta": {
     "EXPORT": {
-      "DataSet": [],
-      "setting.json": "4466a035285493c351096356cf6b3613"
+      "setting.json": "bcaa94ef2f3341370065f47c9243226d"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

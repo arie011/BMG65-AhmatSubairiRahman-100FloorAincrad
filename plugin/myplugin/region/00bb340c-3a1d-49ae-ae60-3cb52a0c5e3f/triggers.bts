@@ -1,0 +1,16 @@
+REGION_ENTER {
+	ShowTip(entity = $obj1, keepTime = 100, textKey = "d62e16f2-2a28-4404-b57b-80d31db4545e", tipType = "1")
+	If (ConsumeItem2(entity = $obj1, item = "myplugin/70bfe277-fe1e-408f-b047-156aaf4b5276", num = 3, reason = "")) {
+		SetEntityPosition(
+			entity = $obj1,
+			map = "map001",
+			pos = {
+				x = 7.10311794281006,
+				y = 168.693686523437,
+				z = -33.4592819213867
+			},
+			rp = 0,
+			ry = 0
+		)
+	}
+}

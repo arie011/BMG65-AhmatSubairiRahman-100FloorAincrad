@@ -1,0 +1,135 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Gray Armor Warrior/Passers-by.actor"
+    },
+    "canClick": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "name": {
+      "value": "2d05e7a0-7e1f-40aa-b967-dd4bb53d7229"
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_OpenConversation",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "56ea7d59-d5cc-4554-a996-6b4adc40f847"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_TalkList",
+                        "rawval": {
+                          "talk": [
+                            {
+                              "msg": {
+                                "value": "b36f7ed3-fc54-4fb5-85f6-69c8089e6f1c"
+                              },
+                              "npc": "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+                            },
+                            {
+                              "msg": {
+                                "value": "104e8a69-2cc1-4f92-aa24-d122f123f2e0"
+                              },
+                              "npc": "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+                            },
+                            {
+                              "msg": {
+                                "value": "e92af31b-db4d-4f93-88ee-d6644942d353"
+                              },
+                              "npc": "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+                            }
+                          ]
+                        }
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_OptionList"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_EntityEntry",
+                        "rawval": "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "36e91e57-52d7-4e31-94b4-65dbb846e40d"
+              },
+              "pos": {
+                "x": 557,
+                "y": 60
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "56ea7d59-d5cc-4554-a996-6b4adc40f847"
+              },
+              "pos": {
+                "x": 1151,
+                "y": 59
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "72d45c5b-b5cc-463d-bf40-0050f4e64bc9"
+            },
+            "type": "Trigger_EntityClick"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "36e91e57-52d7-4e31-94b4-65dbb846e40d"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "0a447556-e94e-40b1-bcba-3a2183bff57a"
+            },
+            "pos": {
+              "x": 276,
+              "y": 266
+            }
+          },
+          "type": "Trigger_EntityClick"
+        }
+      ]
+    },
+    "unAssailable": true,
+    "unDamageable": true
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "077ca284209c0ec295f3c02253d1f3c6",
+      "triggers.bts": "ea8bc511d4ba5e816f01db059d2e8651"
+    },
+    "VERSION": "0.24"
+  }
+}

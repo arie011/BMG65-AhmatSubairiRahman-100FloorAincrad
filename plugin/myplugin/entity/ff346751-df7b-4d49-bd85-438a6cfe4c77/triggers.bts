@@ -1,0 +1,21 @@
+ENTITY_CLICK {
+	OpenConversation(
+		entity = $obj2,
+		optionList = [],
+		optionNpc = "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77",
+		talkList = [
+			{
+				msg = "b36f7ed3-fc54-4fb5-85f6-69c8089e6f1c",
+				npc = "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+			},
+			{
+				msg = "104e8a69-2cc1-4f92-aa24-d122f123f2e0",
+				npc = "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+			},
+			{
+				msg = "e92af31b-db4d-4f93-88ee-d6644942d353",
+				npc = "myplugin/ff346751-df7b-4d49-bd85-438a6cfe4c77"
+			}
+		]
+	)
+}

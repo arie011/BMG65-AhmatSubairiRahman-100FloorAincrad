@@ -8,6 +8,7 @@ ENTITY_ENTER {
 		index = @CurrentCheckPoint
 	)
 	)
+	AddItem(cfg = "myplugin/df299752-6f66-4a11-93e5-947fadc495cd", count = 5, entity = $obj1, reason = "")
 }
 
 ENTITY_DIE {

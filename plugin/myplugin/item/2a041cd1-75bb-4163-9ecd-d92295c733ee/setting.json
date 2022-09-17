@@ -1,0 +1,19 @@
+{
+  "canAbandon": false,
+  "candrop": false,
+  "canEquipPlural": true,
+  "canUse": false,
+  "dropSpeed": 0.2,
+  "handItemBoneName": "s_hand_r",
+  "icon": "@asset/Mesh/Blue Frost Sword/crystal_sword.tga",
+  "itemname": "item_2a041cd1-75bb-4163-9ecd-d92295c733ee",
+  "mesh": "asset/Mesh/Blue Frost Sword/crystal_sword.mesh",
+  "needSave": false,
+  "skill": [],
+  "stack_count_max": 1,
+  "syncGameData": {
+    "currentCapacity": true,
+    "extCapacity": true
+  },
+  "trap": false
+}

@@ -1,0 +1,114 @@
+{
+  "data": {
+    "actorName": {
+      "asset": "asset/Actor/Tall Conical Canopy Pine Tree/Pine Tree2.actor"
+    },
+    "canRevive": true,
+    "girlactor": {
+      "asset": ""
+    },
+    "hideHp": false,
+    "hideName": true,
+    "maxHp": 500,
+    "name": {
+      "value": "entity_5e699ee2-73ce-4e00-8ec4-da723d6ee7dc"
+    },
+    "reviveTime": {
+      "value": 2400
+    },
+    "triggers": {
+      "list": [
+        {
+          "actions": [
+            {
+              "__OBJ_TYPE": "Action_AddItem",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "87f130cb-434a-4ca2-bc25-d509fe73f69c"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ItemEntry",
+                        "rawval": "myplugin/df299752-6f66-4a11-93e5-947fadc495cd"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int",
+                        "rawval": 15
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "799d9777-95a8-4235-8d12-5bdc84f73ce6"
+              },
+              "pos": {
+                "x": 720.5,
+                "y": 268.5
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_GetContextVar",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Context",
+                  "key": "obj2"
+                }
+              ],
+              "id": {
+                "value": "87f130cb-434a-4ca2-bc25-d509fe73f69c"
+              },
+              "pos": {
+                "x": 1093.5,
+                "y": 335.5
+              },
+              "type": "T_Entity"
+            }
+          ],
+          "custom_trigger_data": {
+            "name": {
+              "value": "1af764dc-7708-4536-be6d-6278f883a550"
+            },
+            "type": "Trigger_EntityDie"
+          },
+          "root": {
+            "components": [
+              {
+                "__OBJ_TYPE": "Component_Sequence",
+                "children": [
+                  {
+                    "action": "799d9777-95a8-4235-8d12-5bdc84f73ce6"
+                  }
+                ]
+              }
+            ],
+            "id": {
+              "value": "3e945d5b-292f-4ea5-aa83-7bf52c5f8803"
+            }
+          },
+          "type": "Trigger_EntityDie"
+        }
+      ]
+    }
+  },
+  "meta": {
+    "EXPORT": {
+      "setting.json": "8414b7cf1d0dcdda30d211c4262675b0",
+      "triggers.bts": "15a6255e522cef6db1a4729d662dbcbf"
+    },
+    "VERSION": "0.24"
+  }
+}

@@ -4,6 +4,8 @@
       "asset": "asset/Actor/Green Poisonous Monster_0/Evil Green Monster.actor"
     },
     "AI_attack": {
+      "attackMode": "autoAttack",
+      "chaseDistance": 5,
       "enable": true,
       "skillList": [
         {
@@ -21,7 +23,7 @@
       "asset": ""
     },
     "hideHp": false,
-    "maxHp": 200,
+    "maxHp": 450,
     "name": {
       "value": "entity_ccb8ad65-7cbf-4a3c-b89d-72bef59c6c17"
     },
@@ -33,11 +35,56 @@
         {
           "actions": [
             {
-              "__OBJ_TYPE": "Action_SpawnItemToWorld",
+              "__OBJ_TYPE": "Action_AddItem",
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Params",
                   "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "376f1b2c-d870-4e1f-b006-c382c99db4ce"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_ItemEntry",
+                        "rawval": "myplugin/70bfe277-fe1e-408f-b047-156aaf4b5276"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Int"
+                      }
+                    },
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_String"
+                      }
+                    }
+                  ]
+                }
+              ],
+              "id": {
+                "value": "350a1315-af62-4757-a3c2-4ec91d76ee0c"
+              },
+              "pos": {
+                "x": 554,
+                "y": 210
+              }
+            },
+            {
+              "__OBJ_TYPE": "Action_AddItem",
+              "components": [
+                {
+                  "__OBJ_TYPE": "Component_Params",
+                  "params": [
+                    {
+                      "value": {
+                        "__OBJ_TYPE": "T_Entity",
+                        "action": "4c08dc7b-33b3-4780-885b-77f5d7e41472"
+                      }
+                    },
                     {
                       "value": {
                         "__OBJ_TYPE": "T_ItemEntry",
@@ -47,59 +94,23 @@
                     {
                       "value": {
                         "__OBJ_TYPE": "T_Int",
-                        "rawval": 2
+                        "rawval": 5
                       }
                     },
                     {
                       "value": {
-                        "__OBJ_TYPE": "T_ScenePos",
-                        "rawval": {
-                          "pos": {
-                            "x": -29.68444442749,
-                            "y": 131.61827758789,
-                            "z": -46.593044281006
-                          }
-                        }
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_MapObj",
-                        "action": "52073e61-7596-4664-a4b3-bb09dd8e7a25"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Time",
-                        "rawval": {
-                          "value": 20
-                        }
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Bool"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int"
+                        "__OBJ_TYPE": "T_String"
                       }
                     }
                   ]
                 }
               ],
               "id": {
-                "value": "927a726a-e718-4156-a28d-de11b4486478"
+                "value": "a01c29f8-c64c-4a08-af7a-c566f19517dc"
               },
               "pos": {
-                "x": 585,
-                "y": 100
+                "x": 570,
+                "y": 399
               }
             },
             {
@@ -107,104 +118,34 @@
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Context",
-                  "key": "map"
+                  "key": "obj2"
                 }
               ],
               "id": {
-                "value": "52073e61-7596-4664-a4b3-bb09dd8e7a25"
+                "value": "376f1b2c-d870-4e1f-b006-c382c99db4ce"
               },
               "pos": {
-                "x": 1249,
-                "y": 320
+                "x": 954,
+                "y": 228
               },
-              "type": "T_MapObj"
-            },
-            {
-              "__OBJ_TYPE": "Action_SpawnItemToWorld",
-              "components": [
-                {
-                  "__OBJ_TYPE": "Component_Params",
-                  "params": [
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_ItemEntry",
-                        "rawval": "myplugin/1707e510-14d7-4e06-9237-cf9def9a237b"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int",
-                        "rawval": 1
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_ScenePos",
-                        "rawval": {
-                          "pos": {
-                            "x": -29.68444442749,
-                            "y": 131.61827758789,
-                            "z": -46.593044281006
-                          }
-                        }
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_MapObj",
-                        "action": "e8bcb5d1-7df3-4a27-bc3a-f7b7d82e39b0"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Time",
-                        "rawval": {
-                          "value": 20
-                        }
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Bool"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int"
-                      }
-                    },
-                    {
-                      "value": {
-                        "__OBJ_TYPE": "T_Int"
-                      }
-                    }
-                  ]
-                }
-              ],
-              "id": {
-                "value": "e4612d25-4aa2-4d15-8bef-179db25cf7b5"
-              },
-              "pos": {
-                "x": 560,
-                "y": 461
-              }
+              "type": "T_Entity"
             },
             {
               "__OBJ_TYPE": "Action_GetContextVar",
               "components": [
                 {
                   "__OBJ_TYPE": "Component_Context",
-                  "key": "map"
+                  "key": "obj2"
                 }
               ],
               "id": {
-                "value": "e8bcb5d1-7df3-4a27-bc3a-f7b7d82e39b0"
+                "value": "4c08dc7b-33b3-4780-885b-77f5d7e41472"
               },
               "pos": {
-                "x": 1265,
-                "y": 471
+                "x": 986,
+                "y": 366
               },
-              "type": "T_MapObj"
+              "type": "T_Entity"
             }
           ],
           "custom_trigger_data": {
@@ -219,10 +160,10 @@
                 "__OBJ_TYPE": "Component_Sequence",
                 "children": [
                   {
-                    "action": "927a726a-e718-4156-a28d-de11b4486478"
+                    "action": "350a1315-af62-4757-a3c2-4ec91d76ee0c"
                   },
                   {
-                    "action": "e4612d25-4aa2-4d15-8bef-179db25cf7b5"
+                    "action": "a01c29f8-c64c-4a08-af7a-c566f19517dc"
                   }
                 ]
               }
@@ -242,9 +183,9 @@
   },
   "meta": {
     "EXPORT": {
-      "setting.json": "1e9e8b8f55c1e5127f5ec2909ac8c5d3",
-      "triggers.bts": "5ad77d23a4f3ec4b067eba090b7d0e8b"
+      "setting.json": "277c6e5051238c57d4c26aedd9d4758f",
+      "triggers.bts": "021d37d0723e24785f56d43dd0c57763"
     },
-    "VERSION": "0.22"
+    "VERSION": "0.24"
   }
 }

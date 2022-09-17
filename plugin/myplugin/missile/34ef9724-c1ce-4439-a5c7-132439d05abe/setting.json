@@ -8,25 +8,25 @@
       "z": 1
     },
     "offset": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "rotation": {
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "type": "Box"
   },
-  "followTarget": true,
+  "followTarget": false,
   "followTargetRotation": true,
   "followTargetRotationOffset": {
     "x": 0,
     "y": 0,
     "z": 0
   },
-  "gravity": 0.0,
+  "gravity": 0,
   "hitEntitySkill": "myplugin/7a5e7fee-d53c-43e6-aded-7a4563c4be7f",
   "hitEntitysRoles": [
     "hitAllTeam",
@@ -39,10 +39,10 @@
   "lockRotateBodyPitch": 0,
   "lockRotateBodyRoll": 0,
   "lockRotateBodyYaw": 0,
-  "moveAcc": 0.0,
-  "moveSpeed": 2.0,
+  "moveAcc": 0,
+  "moveSpeed": 0,
   "rotateFree": true,
-  "rotateSpeed": 0.0,
+  "rotateSpeed": 0,
   "startWithMoveAcc": true,
   "vanishShow": false,
   "vanishTime": 10

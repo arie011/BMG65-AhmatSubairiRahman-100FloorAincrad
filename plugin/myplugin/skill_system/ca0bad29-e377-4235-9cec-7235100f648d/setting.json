@@ -19,9 +19,9 @@
     },
     "position": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "preview_dialog": {
       "__OBJ_TYPE": "CollisionboxPreview",
@@ -31,9 +31,9 @@
     "radius_c": 0.5,
     "rotate": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "size": {
       "__OBJ_TYPE": "Vector3",
@@ -61,17 +61,17 @@
     },
     "position": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "radius": 0.5,
     "radius_c": 0.5,
     "rotate": {
       "__OBJ_TYPE": "Vector3",
-      "x": 0.0,
-      "y": 0.0,
-      "z": 0.0
+      "x": 0,
+      "y": 0,
+      "z": 0
     },
     "size": {
       "__OBJ_TYPE": "Vector3",
@@ -89,6 +89,7 @@
     "targetType": "hitAllEntitys",
     "teamList": []
   },
+  "beginCoolDown": "",
   "castAction": {
     "__OBJ_TYPE": "SkillReleaseAction",
     "castAction": "attack1",
@@ -102,7 +103,7 @@
     "__OBJ_TYPE": "EntityEffect",
     "effect": {
       "__OBJ_TYPE": "Resource_Effect",
-      "asset": "asset/Actor/Gavel Green Dwarf/g2021_pet_gebuling2.effect",
+      "asset": "",
       "selector": ""
     },
     "once": true,
@@ -127,7 +128,12 @@
   },
   "castSound": {
     "__OBJ_TYPE": "CastSound",
+    "attenuationType": "0",
+    "is3dSound": false,
     "loop": false,
+    "losslessDistance": 5,
+    "maxDistance": 20,
+    "playRate": 1,
     "selfOnly": false,
     "sound": {
       "__OBJ_TYPE": "Resource_Sound",
@@ -144,14 +150,32 @@
     "__OBJ_TYPE": "Time",
     "value": 100
   },
+  "chargeAntiClockwise": false,
+  "chargeCdAnimation": "",
+  "chargeCdTime": {
+    "__OBJ_TYPE": "Time",
+    "value": 0
+  },
+  "chargeEnableCdMask": false,
+  "chargeEnableCdTip": false,
+  "chargeFillPosition": "",
+  "chargeFillType": "Horizontal",
+  "chargeIsShowCdPoint": false,
+  "chargeTimes": 2,
   "damage": 20,
   "enableCdMask": false,
   "enableCdTip": false,
+  "enableChargeTime": false,
   "FillPosition": "",
   "FillType": "Horizontal",
   "hitEntitySound": {
     "__OBJ_TYPE": "CastSound",
+    "attenuationType": "0",
+    "is3dSound": false,
     "loop": false,
+    "losslessDistance": 5,
+    "maxDistance": 20,
+    "playRate": 1,
     "selfOnly": false,
     "sound": {
       "__OBJ_TYPE": "Resource_Sound",
@@ -181,6 +205,7 @@
     "__OBJ_TYPE": "Time",
     "value": 0
   },
+  "recoveryTimes": "",
   "skill1": "ca0bad29-e377-4235-9cec-7235100f648d",
   "skill2": "1dce22f3-68d4-44a6-a133-bf3a6b6f6ef4",
   "skillIcon": {
